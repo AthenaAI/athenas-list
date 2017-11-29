@@ -1,5 +1,5 @@
 # Blockchain & Cryptocurrencies
-## A curated index of the best learning resources on the Internet for blockchain and cryptocurrencies.
+*A curated index of the best learning resources on the Internet for blockchain and cryptocurrencies.*
 
 This list covers the topics of blockchain and cryptocurrencies. If you’re completely new to these ideas, start with **Start Here**. This should tell you everything you’d ever *need* to know about crypto; but if you’re still curious, explore everything else below.
 
@@ -8,14 +8,12 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 2. [My Crypto Guide](https://mycrypto.guide/) — The Definitive Crypto guide for Beginners and Veterans Alike.
 3. [Devcon2: Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4) by Vitalik Buterin.
 4. [Bitcoin Fireside Chat with Marc Andreessen and Balaji Srinivasan - Coinsumm.it](https://www.youtube.com/watch?v=iir5J6Z3Z1Q)
-***
 
 ## Key
 🛩 &nbsp;&nbsp;&nbsp;Easy
 🚀 &nbsp;&nbsp;&nbsp;Not easy
 🛸 &nbsp;&nbsp;&nbsp;Hard
 ❤️ &nbsp;&nbsp;&nbsp;Editor's Pick
-***
 
 ## Context
 ### Influential People
@@ -36,7 +34,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [Blockchain Basics: Glossary and use cases](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-glossary-bluemix-trs/index.html) by IBM.
 * [Blockchain Glossary](https://blockgeeks.com/guides/blockchain-glossary-from-a-z/) by Blockgeeks.
 * [Blockchain Dictionary](https://hackernoon.com/blockchain-dictionary-f4d098c9ef89) by Jordan Odinsky in Hacker Noon.
-***
 
 ## Guides
 🛩 &nbsp;&nbsp;&nbsp;[What is Ethereum? A Step-by-Step Beginner’s Guide](https://blockgeeks.com/guides/what-is-ethereum/) by Blockgeeks.
@@ -44,7 +41,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🛩 &nbsp;&nbsp;&nbsp;[My Crypto Guide](https://mycrypto.guide/) — The Definitive Crypto guide for Beginners and Veterans Alike.
 🛩 &nbsp;&nbsp;&nbsp;[WTF is The Blockchai](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)[n?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) by Mohit Mamoria in Hacker Noon.
 🛸 &nbsp;&nbsp;&nbsp;[Blockchain Demo](http://blockchaindemo.io/) -- a step-by-step guide to understand how blockchains work.
-***
 
 ## Blogs
 🛩 &nbsp;&nbsp;&nbsp;[Coinbase’s blog](http://blog.coinbase.com)
@@ -60,7 +56,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🚀 &nbsp;&nbsp;&nbsp;[How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 🚀 &nbsp;&nbsp;&nbsp;[Bits on blocks](https://bitsonblocks.net/)
 🛸 &nbsp;&nbsp;&nbsp;[Ralph Merkle’s blog](http://merkle.com)
-***
 
 ## YouTube Channels
 🛩 &nbsp;&nbsp;&nbsp;[Ethereum](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
@@ -75,7 +70,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🚀 &nbsp;&nbsp;&nbsp;[MIT Bitcoin Club](https://www.youtube.com/user/MITBitcoinClub/videos)
 🚀 &nbsp;&nbsp;&nbsp;[Satoshi Pollen](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
 🚀 &nbsp;&nbsp;&nbsp;[Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
-***
 
 ## Videos
 🛩 &nbsp;&nbsp;&nbsp;[Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) ❤️️
@@ -90,7 +84,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🚀 &nbsp;&nbsp;&nbsp;[Ethereum Explained](https://www.youtube.com/watch?v=-_Qs0XdPpw8&feature=youtu.be)
 🚀 &nbsp;&nbsp;&nbsp;[How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) ❤️️
 🚀 &nbsp;&nbsp;&nbsp;[Visual Demonstration of a Blockchain](https://anders.com/blockchain/)
-***
 
 ## Articles
 ### General
@@ -141,7 +134,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🛩 &nbsp;&nbsp;&nbsp;[Building the Bridge: Why Compliance is Key to Digital Currencies Success](https://blog.coinbase.com/building-the-bridge-why-compliance-is-key-to-digital-currencys-success-7bfdd88a084c) by Brian Armstrong.
 🛩 &nbsp;&nbsp;&nbsp;[Bitcoin and the Seperation of Money and State](http://moneyandstate.com/bitcoin-separation-money-state/) by Erik Voorhees.
 🛸 &nbsp;&nbsp;&nbsp;[DAOs, Democracy and Governance](http://merkle.com/papers/DAOdemocracyDraft.pdf) by Ralph Merkle. ❤️
-***
 
 ## Talks
 🛩 &nbsp;&nbsp;&nbsp;[How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) — TED Talk by Don Tapscott, the author of Blockchain Revolution.
@@ -164,7 +156,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🚀 &nbsp;&nbsp;&nbsp;[Beyond Bitcoin: The Blockchain](https://a16z.com/2014/10/24/the-bitcoin-network-effect/) by Chris Dixon, Ed Felten, and Matthew Green for Andreessen Horowitz.
 🚀 &nbsp;&nbsp;&nbsp;[Arun Sundararajan: "The Sharing Economy and the Future of Digital Governance"](https://www.youtube.com/watch?v=yceuC1O-Q_8) for Talks at Google.
 🛸 &nbsp;&nbsp;&nbsp;[David Mazières: "The Stellar Consensus Protocol](https://www.youtube.com/watch?v=vmwnhZmEZjc)” for Talks at Google.
-***
 
 ## Books
 🛩 &nbsp;&nbsp;&nbsp;[Blockchain Revolution](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=sr_1_1?ie=UTF8&qid=1511287797&sr=8-1&keywords=blockchain+revolution) by Don & Alex Tapscott.
@@ -175,7 +166,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🚀 &nbsp;&nbsp;&nbsp;[Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=1XDASWXFGTJFZYJHE7TJ) by Andreas M. Antonopoulos (published by O’Reilly).
 🚀 &nbsp;&nbsp;&nbsp;[Decentralized Applications: Harnessing Bitcoin’s Blockchain Technology](https://www.amazon.com/Decentralized-Applications-Harnessing-Blockchain-Technology/dp/1491924543) by Siraj Raval (published by O’Reilly).
 🚀 &nbsp;&nbsp;&nbsp;[Mastering Ethereum: Building Smart Contracts and Dapps](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=0NVTAY535X87VB1WXBNY) by Andreas M. Antonopoulos (published by O’Reilly).
-***
 
 ## Courses
 ### Lectures
@@ -198,7 +188,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 ### Bootcamps
 🛩 &nbsp;&nbsp;&nbsp;[Byte Academy’s fintech program](http://byteacademy.co/courses/fintech)
 🚀 &nbsp;&nbsp;&nbsp;[Blockchain Training](https://www.eventbrite.com/e/blockchain-training-hyperledger-jump-start-tickets-39612507075?aff=erelexpmlt) by Hyperledger
-***
 
 ## Lists
 🛩 &nbsp;&nbsp;&nbsp;[Awesome Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) - A guide (for humans!) to crypto-currencies and their algos.
@@ -211,7 +200,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🚀 &nbsp;&nbsp;&nbsp;[Reading List for Decentralized Systems](https://github.com/blockstack/reading-list)
 🚀 &nbsp;&nbsp;&nbsp;[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
 🛸 &nbsp;&nbsp;&nbsp;[Blockchain Papers](https://github.com/decrypto-org/blockchain-papers) — A curated list of blockchain-related academic papers.
-***
 
 ## Communities
 ### Online
@@ -245,7 +233,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [Bitcoin & Open Blockchain Community - Chicago](https://www.meetup.com/Bitcoin-Open-Blockchain-Community-Chicago/)
 * [India Bitcoin Blockchain](https://www.meetup.com/IndiaBitcoin)
 * [Local Bitcoin Communities](https://www.reddit.com/r/Bitcoin/wiki/local_communities)
-***
 
 ## Threads
 🛩 &nbsp;&nbsp;&nbsp;[A step by step guide on how to begin the process of investing in cryptocurrency](https://www.quora.com/What-are-the-first-steps-someone-should-take-when-considering-their-first-investment-in-digital-currency-Litecoin-Ethereum-Bitcoin-etc)
@@ -262,7 +249,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🚀 &nbsp;&nbsp;&nbsp;[Vitalik Buterin: "Putin knows what blockchain is – this is the hype"](https://www.reddit.com/r/ethereum/comments/6xdsvr/vitalik_buterin_putin_knows_what_blockchain_is/)
 🚀 &nbsp;&nbsp;&nbsp;[How are Ethereum and Bitcoin centralized and decentralized?](https://www.quora.com/How-are-Ethereum-and-Bitcoin-centralized-and-decentralized/answer/Terrence-Yang-4?srid=ZtRt)
 🚀 &nbsp;&nbsp;&nbsp;[I want to learn everything about the blockchain, where do I start?](https://www.reddit.com/r/Entrepreneur/comments/3l7gj2/i_want_to_learn_everything_about_the_blockchain/) ❤️
-***
 
 ## Podcasts
 ### Podcasts
@@ -283,14 +269,12 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 🚀 &nbsp;&nbsp;&nbsp;[a16z Podcast: Cryptocurrencies, App Coins, and Investing in Protocols](https://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)
 🚀 &nbsp;&nbsp;&nbsp;[a16z Podcast: Why Crypto Tokens Matter](https://a16z.com/2017/09/28/cryptocurrencies-networks-tokens/)
 🚀 &nbsp;&nbsp;&nbsp;[The Quiet Mastery of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/) by Tim Ferriss. ❤️
-***
 
 ## Newsletters
 * [CoinPride Club](https://club.coinpride.com/)
 * [Blockchain Weekly](https://blockchainweekly.net/)
 * [CoinDesk’s newsletter](https://www.coindesk.com/newsletter/)
 * [Inside Blockchain](https://inside.com/blockchain)
-***
 
 ## Films
 ### Documentaries
@@ -299,7 +283,6 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 
 ### Movies
 *Know any good movies about blockchain? Contribute them!*
-***
 
 ## News
 * [CoinTelegraph](https://cointelegraph.com/)
@@ -308,12 +291,10 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [CoinSpectator](https://coinspectator.com/)
 * [Bitnewstoday](https://bitnewstoday.com/)
 * [CoinJournal](https://coinjournal.net/)
-***
 
 ## Wikis
 * [The Ethereum Wiki](https://github.com/ethereum/wiki/wiki)
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki)
-***
 
 ## Research Papers
 ### General
