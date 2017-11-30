@@ -100,7 +100,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 🛩 &nbsp;&nbsp;&nbsp;[Money and Finance: Crash Course Economics](https://www.youtube.com/watch?v=Dugn51K_6WA)<br>
 
 ### Strategy
-🛩 &nbsp;&nbsp;&nbsp;[Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) by William Ackman for Big Think. ❤️<br>
+🛩 &nbsp;&nbsp;&nbsp;[Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) by Bill Ackman for Big Think. ❤️<br>
 🛩 &nbsp;&nbsp;&nbsp;[The Intelligent Investor: Animated Version](https://youtu.be/7B72GjlKKPY)<br>
 🛩 &nbsp;&nbsp;&nbsp;[Charlie Munger and Warren Buffett's Investing Checklist Explained](https://youtu.be/UwD2OgMJONM)<br>
 🚀 &nbsp;&nbsp;&nbsp;[Peter Lynch On How To Pick Stocks](https://www.youtube.com/watch?v=r2h84TORcJI)<br>
