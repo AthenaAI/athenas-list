@@ -19,7 +19,7 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 
 # Guides
 ### Easy
-* [Building Muscle](https://www.julian.com/learn/muscle/intro) by Julian Shapiro. ❤️
+* [Building Muscle](https://www.julian.com/learn/muscle/intro) by Julian Shapiro. 🌟
 * [Maximize your fitness and health](https://ss.fitness/#the-basics) by Simple Science Fitness.
 * [How to Choose a Beginner Weight Training Program That You’ll Stick To](http://routineexcellence.com/how-to-choose-a-beginner-weight-training-program-that-youll-stick-to/) by Routine Excellence.
 
@@ -34,7 +34,7 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 
 # YouTube Channels
 ### Easy
-* [PictureFit](https://www.youtube.com/channel/UCadiU6WTKl65HUwEih1XLYg) ❤️
+* [PictureFit](https://www.youtube.com/channel/UCadiU6WTKl65HUwEih1XLYg) 🌟
 * [Six Pack Shortcuts](https://www.youtube.com/user/sixpackshortcuts) by Mike Chang.
 * [Alan Thrall](https://www.youtube.com/user/athrall7)
 * [Omar Isuf](https://www.youtube.com/user/OmarIsuf)
@@ -80,11 +80,11 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 # Books
 ## Books
 ### Easy
-* [The New Encyclopedia of Modern Bodybuilding : The Bible of Bodybuilding, Fully Updated and Revised](https://www.amazon.com/New-Encyclopedia-Modern-Bodybuilding-Updated/dp/0684857219/ref=sr_1_1?s=books&ie=UTF8&qid=1470761021&sr=1-1&keywords=arnold+encyclopedia+of+bodybuilding) by Arnold Schwarzenegger. ❤️
-* [Strength Training Anatomy](https://www.amazon.com/Strength-Training-Anatomy-Frederic-Delavier/dp/0736092269) by Frederic Delavier. ❤️
+* [The New Encyclopedia of Modern Bodybuilding : The Bible of Bodybuilding, Fully Updated and Revised](https://www.amazon.com/New-Encyclopedia-Modern-Bodybuilding-Updated/dp/0684857219/ref=sr_1_1?s=books&ie=UTF8&qid=1470761021&sr=1-1&keywords=arnold+encyclopedia+of+bodybuilding) by Arnold Schwarzenegger. 🌟
+* [Strength Training Anatomy](https://www.amazon.com/Strength-Training-Anatomy-Frederic-Delavier/dp/0736092269) by Frederic Delavier. 🌟
 * [Anatomy of Movement](https://www.amazon.ca/Anatomy-Movement-Blandine-Calais-Germain/dp/0939616572) — by Blandine Calais-Germain.
 * [Starting Strength: Basic Barbell Training](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738)
-* [Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body (The Muscle for Life Series Book 1)](https://www.amazon.com/Bigger-Leaner-Stronger-Building-Ultimate-ebook/dp/B006XF5BTG) by Michael Matthews. ❤️
+* [Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body (The Muscle for Life Series Book 1)](https://www.amazon.com/Bigger-Leaner-Stronger-Building-Ultimate-ebook/dp/B006XF5BTG) by Michael Matthews. 🌟
 * [Thinner Leaner Stronger: The Simple Science of Building the Ultimate Female Body (The Muscle for Life Series Book 2)](https://www.amazon.com/Thinner-Leaner-Stronger-Building-Ultimate-ebook/dp/B0098PYV7Q/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=ED84707584PRWGB0E9BX) by Michael Matthews.
 * [The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://www.amazon.com/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0307704610) by Tim Ferriss.
 
@@ -113,13 +113,13 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [Nutrition and Health: Human Microbiome](https://www.edx.org/course/nutrition-health-human-microbiome-wageningenx-nutr104x) by Clara Belzer for Wageningen University.
 
 # Lists
-* [/r/Fitness Wiki Resources](https://www.reddit.com/r/Fitness/wiki/resources) ❤️
+* [/r/Fitness Wiki Resources](https://www.reddit.com/r/Fitness/wiki/resources) 🌟
 * [Exercise & Muscle Directory](http://www.exrx.net/Lists/Directory.html) — This looks sketchy, but it’s good.
 * [On-The-Go Fitness](https://kit.com/timferriss/on-the-go-fitness) — Tim Ferriss’ curated kit of products to help you get a fantastic workout.
 
 # Communities
 ### Easy
-* [/r/Fitness](http://www.reddit.com/r/fitness) ❤️
+* [/r/Fitness](http://www.reddit.com/r/fitness) 🌟
 * [/r/weightlifting](https://www.reddit.com/r/weightlifting)
 * [/r/weightroom](https://www.reddit.com/r/weightroom/)
 
