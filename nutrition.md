@@ -1,5 +1,5 @@
 # Nutrition & Building Muscle
-* A curated index of the best learning resources on the Internet about nutrition and muscle-building.*
+*A curated index of the best learning resources on the Internet about nutrition and muscle-building.*
 
 There are many charlatans spewing non-scientific garbage on the Internet. We’ve done our best to curate those sources out and only include resources that are based on real science. Because of this, there are less resources here than in our other lists. If you know any good resources that we’ve missed, let us know in the comments below.
 
