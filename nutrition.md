@@ -96,7 +96,7 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 ### Not Easy
 * [Essentials of Strength Training and Conditioning](https://www.amazon.com/Essentials-Strength-Training-Conditioning-Resource/dp/149250162X) by National Strength and Conditioning Association.
 
-### Hard
+<span style="color:red">### Hard</span>
 * [Atlas of Human Anatomy: Including Student Consult Interactive Ancillaries and Guides](https://www.amazon.com/Atlas-Human-Anatomy-Interactive-Ancillaries/dp/1455704180/ref=sr_1_1?ie=UTF8&qid=1470757904&sr=8-1&keywords=netters) by Frank Netter.
 
 # Courses
