@@ -18,22 +18,17 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [Ultimate Glossary of Strength and Conditioning Terms](https://www.artofmanliness.com/2016/02/03/the-ultimate-glossary-of-strength-and-conditioning-terms/) by Art of Manliness.
 
 # Guides
-### Easy
 * [Building Muscle](https://www.julian.com/learn/muscle/intro) by Julian Shapiro. 🌟
 * [Maximize your fitness and health](https://ss.fitness/#the-basics) by Simple Science Fitness.
 * [How to Choose a Beginner Weight Training Program That You’ll Stick To](http://routineexcellence.com/how-to-choose-a-beginner-weight-training-program-that-youll-stick-to/) by Routine Excellence.
 
 # Blogs
-### Easy
 * [Simple Science Fitness](http://ss.fitness)
 * [Men’s Health](http://menshealth.com)
 * [Stronger By Science](https://www.strongerbyscience.com/category/articles/)
-
-### Not Easy
 * [Body Recomposition](http://bodyrecomposition.com)
 
 # YouTube Channels
-### Easy
 * [PictureFit](https://www.youtube.com/channel/UCadiU6WTKl65HUwEih1XLYg) 🌟
 * [Six Pack Shortcuts](https://www.youtube.com/user/sixpackshortcuts) by Mike Chang.
 * [Alan Thrall](https://www.youtube.com/user/athrall7)
@@ -42,14 +37,12 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 
 # Videos
 ## Muscles
-### Easy
 * [Muscles, part 1 - Muscle Cells: Crash Course A&P #21](https://www.youtube.com/watch?v=Ktv-CaOt6UQ) by Crash Course.
 * [Muscles, part 2 - Organismal Level: Crash Course A&P #22](https://www.youtube.com/watch?v=I80Xx7pA9hQ) by Crash Course.
 * [What makes muscles grow?](https://www.youtube.com/watch?v=2tM1LFFxeKg) by TED-Ed.
 * [How Does Protein Build Muscle?](https://www.youtube.com/watch?v=L5-tKciXEG8) by Reactions.
 
 ## Nutrition
-### Easy
 * [The Deal with Protein](https://www.youtube.com/watch?v=Chbm84sCBAw) by SciShow.
 * [The Deal with Carbs](https://www.youtube.com/watch?v=Q29F4a61J7k) by SciShow.
 * [The Deal with Fat](https://www.youtube.com/watch?v=mvvx2yQRbzQ) by SciShow.
@@ -58,28 +51,22 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [How Bacteria Rule Over Your Body – The Microbiome](https://www.youtube.com/watch?v=VzPD009qTN4) by Kurzgesagt.
 
 ## Burning Fat
-### Easy
 * [When You Burn Fat, Where Does it Go?](https://www.youtube.com/watch?v=C8ialLlcdcw) by SciShow.
 
 ## GMOs
-### Easy
 * [Why are GMOs bad?](https://www.youtube.com/watch?v=sH4bi60alZU) by SciShow.
 * [Are GMOs Good or Bad? Genetic Engineering & Our Food](https://www.youtube.com/watch?v=7TmcXYp8xu4) by Kurzgesagt.
 
 # Articles
-### Easy
 * [Beginning Weight Training Part 1](https://www.bodyrecomposition.com/muscle-gain/beginning-weight-training-part-1.html)
 * [7 Fundamentals of Eating for Muscle Growth | Mass Class](https://www.youtube.com/watch?v=C1s_2au4qcM)
 
 # Talks
-### Easy
 * [Michael Pollan: "In Defense of Food" | Talks at Google](https://www.youtube.com/watch?v=I-t-7lTw6mA)
 * [Michael Pollan on Food](https://www.youtube.com/watch?v=P1rCc6JCwdU) by The School of Life.
 * [Sugar: The Bitter Truth](https://www.youtube.com/watch?v=dBnniua6-oM) by Robert Lustic on UCTV.
 
 # Books
-## Books
-### Easy
 * [The New Encyclopedia of Modern Bodybuilding : The Bible of Bodybuilding, Fully Updated and Revised](https://www.amazon.com/New-Encyclopedia-Modern-Bodybuilding-Updated/dp/0684857219/ref=sr_1_1?s=books&ie=UTF8&qid=1470761021&sr=1-1&keywords=arnold+encyclopedia+of+bodybuilding) by Arnold Schwarzenegger. 🌟
 * [Strength Training Anatomy](https://www.amazon.com/Strength-Training-Anatomy-Frederic-Delavier/dp/0736092269) by Frederic Delavier. 🌟
 * [Anatomy of Movement](https://www.amazon.ca/Anatomy-Movement-Blandine-Calais-Germain/dp/0939616572) — by Blandine Calais-Germain.
@@ -87,13 +74,10 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body (The Muscle for Life Series Book 1)](https://www.amazon.com/Bigger-Leaner-Stronger-Building-Ultimate-ebook/dp/B006XF5BTG) by Michael Matthews. 🌟
 * [Thinner Leaner Stronger: The Simple Science of Building the Ultimate Female Body (The Muscle for Life Series Book 2)](https://www.amazon.com/Thinner-Leaner-Stronger-Building-Ultimate-ebook/dp/B0098PYV7Q/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=ED84707584PRWGB0E9BX) by Michael Matthews.
 * [The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://www.amazon.com/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0307704610) by Tim Ferriss.
-
-### Not Easy
 * [Bodyweight Strength Training Anatomy](https://www.amazon.com/dp/B00EQ5U4BK/ref=cm_sw_r_cp_apa_QwHQxb9M2YZ54) by Brett Contreras.
 * [Practical Programming for Strength Training](https://www.amazon.com/Practical-Programming-Strength-Training-Rippetoe/dp/0982522754) by Mark Rippetoe.
 
 ## Textbooks
-### Not Easy
 * [Essentials of Strength Training and Conditioning](https://www.amazon.com/Essentials-Strength-Training-Conditioning-Resource/dp/149250162X) by National Strength and Conditioning Association.
 
 ### Hard ❗️
@@ -101,12 +85,10 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 
 # Courses
 ## Exercise
-### Easy
 * [Science of Exercise](https://www.coursera.org/learn/science-exercise) by Robert Mazzeo for University of Colorado Boulder.
 * [The Body Matters: Why Exercise Makes You Healthy and How to Stay Uninjured](https://www.edx.org/course/body-matters-why-exercise-makes-you-mcgillx-body101x-0) by Ian Shrier for McGill.
 
 ## Nutrition
-### Easy
 * [Health and Medicine](https://www.khanacademy.org/science/health-and-medicine) by Khan Academy.
 * [Nutrition and Health: Macronutrients and Overnutrition](https://www.edx.org/course/nutrition-health-macronutrients-wageningenx-nutr101x-0) by Sander Kersten for Wageningen University.
 * [Nutrition and Health: Micronutrients and Malnutrition](https://www.edx.org/course/nutrition-health-micronutrients-wageningenx-nutr102x-0) by Sander Kersten for Wageningen University.
@@ -118,12 +100,9 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [On-The-Go Fitness](https://kit.com/timferriss/on-the-go-fitness) — Tim Ferriss’ curated kit of products to help you get a fantastic workout.
 
 # Communities
-### Easy
 * [/r/Fitness](http://www.reddit.com/r/fitness) 🌟
 * [/r/weightlifting](https://www.reddit.com/r/weightlifting)
 * [/r/weightroom](https://www.reddit.com/r/weightroom/)
-
-### Not Easy
 * [/r/AdvancedFitness](https://www.reddit.com/r/AdvancedFitness/)
 
 # Threads
