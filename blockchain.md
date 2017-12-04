@@ -11,7 +11,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 3. [Devcon2: Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4) by Vitalik Buterin.
 4. [Bitcoin Fireside Chat with Marc Andreessen and Balaji Srinivasan - Coinsumm.it](https://www.youtube.com/watch?v=iir5J6Z3Z1Q)
 
-# Context
+## Context
 ### Influential People
 * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) — Anonymous inventor of [Bitcoin](http://bitcoin.org).
 * [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin) — Co-founder of [Ethereum](http://ethereum.org) & [Bitcoin Magazine](http://bitcoinmagazine.com).
@@ -31,7 +31,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [Blockchain Glossary](https://blockgeeks.com/guides/blockchain-glossary-from-a-z/) by Blockgeeks.
 * [Blockchain Dictionary](https://hackernoon.com/blockchain-dictionary-f4d098c9ef89) by Jordan Odinsky in Hacker Noon.
 
-# Guides
+## Guides
 * [What is Ethereum? A Step-by-Step Beginner’s Guide](https://blockgeeks.com/guides/what-is-ethereum/) by Blockgeeks.<br>
 * [What is Ethereum?](https://www.coindesk.com/information/what-is-ethereum/) by CoinDesk.<br>
 * [My Crypto Guide](https://mycrypto.guide/) — The Definitive Crypto guide for Beginners and Veterans Alike.<br>
