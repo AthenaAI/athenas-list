@@ -11,4 +11,4 @@
 * [Building Muscle & Nutrition](https://github.com/AthenaAI/athenas-list_one/blob/master/nutrition.md)
 
 ## Contributions
-All of our lists are works in progress. If you'd like to contribute, send us a pull request.
+All of our lists are works in progress. If you'd like to contribute, send us a pull request. If you're working on a list you'd like to include in our collection, add [our badge](https://github.com/AthenaAI/athenas-list_one/blob/master/assets/athenas-list.png") and send us a pull request.
