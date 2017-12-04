@@ -1,6 +1,8 @@
 # Blockchain & Cryptocurrencies
 *A curated index of the best learning resources on the Internet for blockchain and cryptocurrencies.*
 
+<a href="https://github.com/AthenaAI/athenas-list_one"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/athenas-list.png" alt="Athena's List" width="135px"></a>
+
 This list covers the topics of blockchain and cryptocurrencies. If you’re completely new to these ideas, start with **Start Here**. This should tell you everything you’d ever *need* to know about crypto; but if you’re still curious, explore everything else below. Resources marked with ❗️ are difficult, and those with 🌟 are our favorite.
 
 # Start Here
