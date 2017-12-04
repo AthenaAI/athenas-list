@@ -1,21 +1,15 @@
 # Value Investing
 *A curated index of the best learning resources on the Internet about Value Investing.*
 
-This list covers the topic of value investing. If you’re completely new to this, start with **Start Here**. This should tell you everything you’d ever *need* to know about it; but if you’re still curious, explore everything else below.
+This list covers the topic of value investing. If you’re completely new to this, start with **Start Here**. This should tell you everything you’d ever *need* to know about it; but if you’re still curious, explore everything else below. Resources marked with ❗️ are difficult, and those with 🌟 are our favorite.
 
-## ⭐️ Start Here ⭐️
+# Start Here
 1. [How The Stock Exchange Works (For Dummies)](https://www.youtube.com/watch?v=F3QpgXBtDeo) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).
 2. [Banking Explained – Money and Credit](https://www.youtube.com/watch?v=fTTGALaRZoc) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).
 3. [How the Economic Machine Works](http://www.economicprinciples.org/) by Ray Dalio.
 4. [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) by William Ackman for Big Think.
 
-## Key
-🛩 &nbsp;&nbsp;&nbsp;Easy<br>
-🚀 &nbsp;&nbsp;&nbsp;Not easy<br>
-🛸 &nbsp;&nbsp;&nbsp;Hard<br>
-❤️ &nbsp;&nbsp;&nbsp;Editor's Pick<br>
-
-## Context
+# Context
 ### Influential People
 * [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) — Columbia professor, the Godfather of value investing, and Warren Buffett’s mentor.
 * [David Dodd](https://en.wikipedia.org/wiki/David_Dodd) — Graham’s right-hand man at Columbia who wrote “Security Analysis” with him.
@@ -32,165 +26,165 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) — The Godfather of behavioral economics.
 * [Richard Thaler](https://en.wikipedia.org/wiki/Richard_Thaler) — Won the Nobel Prize for his work on behavioral economics.
 
-### Glossary
+### Glossaries
 * [Glossary of Investment Terms - J.P. Morgan Asset Management](https://am.jpmorgan.com/us/en/asset-management/gim/adv/glossary-of-investment-terms)
 * [Glossary of stock market terms](https://en.wikipedia.org/wiki/Glossary_of_stock_market_terms) by Wikipedia.
 
-## Guides
-🛩 &nbsp;&nbsp;&nbsp;[Value Investing: An Introductory Guide](https://getpocketbook.com/blog/value-investing-guide/) by Pocketbook.<br>
-🛩 &nbsp;&nbsp;&nbsp;[The Absolute Beginner’s Guide to Investing](http://artofvalueinvesting.com/the-absolute-beginners-guide-to-investing/) by Art of Value Investing.<br>
-🚀 &nbsp;&nbsp;&nbsp;[The Detailed Guide to Value and Deep Value Investing — How to Build a Long Term Portfolio](https://www.cityfalcon.com/blog/investing-for-newbies/the-detailed-guide-to-value-and-deep-value-investing-how-to-build-a-long-term-portfolio/) by Ruzbeh Bacha for Due on Medium.<br>
+# Guides
+* [Value Investing: An Introductory Guide](https://getpocketbook.com/blog/value-investing-guide/) by Pocketbook.<br>
+* [The Absolute Beginner’s Guide to Investing](http://artofvalueinvesting.com/the-absolute-beginners-guide-to-investing/) by Art of Value Investing.<br>
+* [The Detailed Guide to Value and Deep Value Investing — How to Build a Long Term Portfolio](https://www.cityfalcon.com/blog/investing-for-newbies/the-detailed-guide-to-value-and-deep-value-investing-how-to-build-a-long-term-portfolio/) by Ruzbeh Bacha for Due on Medium.<br>
 
-## Blogs
+# Blogs
 ### General
-🛩 &nbsp;&nbsp;&nbsp;[Investopedia’s Investing blog](https://www.investopedia.com/investing/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Safal Niveshak](http://www.safalniveshak.com/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[FutureBlind](http://www.futureblind.com/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Value and Opportunity](http://valueandopportunity.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Farnam Street](http://www.farnamstreetblog.com/) ❤️<br>
-🚀 &nbsp;&nbsp;&nbsp;[The Guru Investor](http://theguruinvestor.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Value Investing World](http://www.valueinvestingworld.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Tren Griffin’s blog on investing](http://25iq.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Dataroma Articles & Commentary](http://www.dataroma.com/m/comm.php)<br>
-🚀 &nbsp;&nbsp;&nbsp;[A Wealth of Common Sense](http://awealthofcommonsense.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Glenn Chan’s Random Notes on Investing](https://glennchan.wordpress.com/)<br>
-🛸 &nbsp;&nbsp;&nbsp;[Divestor](http://divestor.com/)<br>
+* [Investopedia’s Investing blog](https://www.investopedia.com/investing/)<br>
+* [Safal Niveshak](http://www.safalniveshak.com/)<br>
+* [FutureBlind](http://www.futureblind.com/)<br>
+* [Value and Opportunity](http://valueandopportunity.com/)<br>
+* [Farnam Street](http://www.farnamstreetblog.com/) ❤️<br>
+* [The Guru Investor](http://theguruinvestor.com/)<br>
+* [Value Investing World](http://www.valueinvestingworld.com/)<br>
+* [Tren Griffin’s blog on investing](http://25iq.com/)<br>
+* [Dataroma Articles & Commentary](http://www.dataroma.com/m/comm.php)<br>
+* [A Wealth of Common Sense](http://awealthofcommonsense.com/)<br>
+* [Glenn Chan’s Random Notes on Investing](https://glennchan.wordpress.com/)<br>
+* [Divestor](http://divestor.com/) ❗️<br>
 
 ### Strategy
-🛩 &nbsp;&nbsp;&nbsp;[Base Hit Investing](http://basehitinvesting.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Graham And Doddsville](http://www.grahamanddoddsville.net/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Bronte Capital](http://brontecapital.blogspot.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[GregSpeicher](http://gregspeicher.com/)<br>
+* [Base Hit Investing](http://basehitinvesting.com/)<br>
+* [Graham And Doddsville](http://www.grahamanddoddsville.net/)<br>
+* [Bronte Capital](http://brontecapital.blogspot.com/)<br>
+* [GregSpeicher](http://gregspeicher.com/)<br>
 
 ### Stocks
-🛩 &nbsp;&nbsp;&nbsp;[Reminiscences of a Stockblogger](http://reminiscencesofastockblogger.com/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Student of Value](http://studentofvalue.com/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Long Term Value Blog](https://longtermvalue.wordpress.com/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[OTC Adventures](http://otcadventures.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Odd Ball Stocks](http://www.oddballstocks.com/)<br>
-🛸 &nbsp;&nbsp;&nbsp;[Shadow Stock](http://shadowstock.blogspot.com/)<br>
+* [Reminiscences of a Stockblogger](http://reminiscencesofastockblogger.com/)<br>
+* [Student of Value](http://studentofvalue.com/)<br>
+* [Long Term Value Blog](https://longtermvalue.wordpress.com/)<br>
+* [OTC Adventures](http://otcadventures.com/)<br>
+* [Odd Ball Stocks](http://www.oddballstocks.com/)<br>
+* [Shadow Stock](http://shadowstock.blogspot.com/) ❗️<br>
 
 ### Economics
-🚀 &nbsp;&nbsp;&nbsp;[Musings on Markets ❤️](http://aswathdamodaran.blogspot.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Canadian Value Investing](http://canadianvalueinvesting.blogspot.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Brooklyn Investor](http://brooklyninvestor.blogspot.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[CS Investing](http://csinvesting.org/)<br>
+* [Musings on Markets](http://aswathdamodaran.blogspot.com/) 🌟<br>
+* [Canadian Value Investing](http://canadianvalueinvesting.blogspot.com/)<br>
+* [Brooklyn Investor](http://brooklyninvestor.blogspot.com/)<br>
+* [CS Investing](http://csinvesting.org/)<br>
 
 ### Philosophy
-🛩 &nbsp;&nbsp;&nbsp;[The Rational Walk](http://www.rationalwalk.com/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Fundoo Professor](https://fundooprofessor.wordpress.com/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Gannon and Hoang on Investing](http://gannonandhoangoninvesting.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Value Ventures ❤️](http://oraclefromomaha.wordpress.com/)<br>
+* [The Rational Walk](http://www.rationalwalk.com/)<br>
+* [Fundoo Professor](https://fundooprofessor.wordpress.com/)<br>
+* [Gannon and Hoang on Investing](http://gannonandhoangoninvesting.com/)<br>
+* [Value Ventures ❤️](http://oraclefromomaha.wordpress.com/)<br>
 
-## YouTube
+# YouTube
 ### Channels
-🛩 &nbsp;&nbsp;&nbsp;[Investor’s Archive ❤️](https://www.youtube.com/channel/UCVJalJNQWimC2zWrIHR_bSQ)<br>
-🛩 &nbsp;&nbsp;&nbsp;[L2inc](https://www.youtube.com/channel/UCBcRF18a7Qf58cCRy5xuWwQ)<br>
+* [Investor’s Archive ❤️](https://www.youtube.com/channel/UCVJalJNQWimC2zWrIHR_bSQ)<br>
+* [L2inc](https://www.youtube.com/channel/UCBcRF18a7Qf58cCRy5xuWwQ)<br>
 
 ### Playlists
-🛩 &nbsp;&nbsp;&nbsp;[Winners & Losers in a Digital Age](https://www.youtube.com/playlist?list=PL67plOPT3Am0JbnL_LjU2X1DfraHvVsWd)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Valuation and Investing](https://www.youtube.com/playlist?list=PL370CD04C45C6BB81) by Khan Academy.<br>
-🛩 &nbsp;&nbsp;&nbsp;[The Investors Podcast (TIP) /We Study Billionaires” series](https://www.youtube.com/playlist?list=PLY2iemXCSz6FUEzsiSf4IZC244w--lR7n)<br>
+* [Winners & Losers in a Digital Age](https://www.youtube.com/playlist?list=PL67plOPT3Am0JbnL_LjU2X1DfraHvVsWd)<br>
+* [Valuation and Investing](https://www.youtube.com/playlist?list=PL370CD04C45C6BB81) by Khan Academy.<br>
+* [The Investors Podcast (TIP) /We Study Billionaires” series](https://www.youtube.com/playlist?list=PLY2iemXCSz6FUEzsiSf4IZC244w--lR7n)<br>
 
-## Videos
+# Videos
 ### Economics
-🛩 &nbsp;&nbsp;&nbsp;[How the Economic Machine Works](http://www.economicprinciples.org/) by Ray Dalio. ❤️<br>
-🛩 &nbsp;&nbsp;&nbsp;[How The Stock Exchange Works (For Dummies)](https://www.youtube.com/watch?v=F3QpgXBtDeo) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).<br>
-🛩 &nbsp;&nbsp;&nbsp;[Banking Explained – Money and Credit](https://www.youtube.com/watch?v=fTTGALaRZoc) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).<br>
-🛩 &nbsp;&nbsp;&nbsp;[Money and Finance: Crash Course Economics](https://www.youtube.com/watch?v=Dugn51K_6WA)<br>
+* [How the Economic Machine Works](http://www.economicprinciples.org/) by Ray Dalio. 🌟<br>
+* [How The Stock Exchange Works (For Dummies)](https://www.youtube.com/watch?v=F3QpgXBtDeo) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).<br>
+* [Banking Explained – Money and Credit](https://www.youtube.com/watch?v=fTTGALaRZoc) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).<br>
+* [Money and Finance: Crash Course Economics](https://www.youtube.com/watch?v=Dugn51K_6WA)<br>
 
 ### Strategy
-🛩 &nbsp;&nbsp;&nbsp;[Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) by Bill Ackman for Big Think. ❤️<br>
-🛩 &nbsp;&nbsp;&nbsp;[The Intelligent Investor: Animated Version](https://youtu.be/7B72GjlKKPY)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Charlie Munger and Warren Buffett's Investing Checklist Explained](https://youtu.be/UwD2OgMJONM)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Peter Lynch On How To Pick Stocks](https://www.youtube.com/watch?v=r2h84TORcJI)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Joel Greenblatt: Value Investing for Small Investors](https://www.youtube.com/watch?v=0b3M8edXECo)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Billionaire Prem Watsa: Value Investing Philosophy and Strategy](https://www.youtube.com/watch?v=BkOhD7P5t_c) by Investors Archive.<br>
-🚀 &nbsp;&nbsp;&nbsp;[Jeffrey Ubben: The Evolution of the Active Value Investment Style (1)](https://www.youtube.com/watch?v=cbFBQAm75ew)<br>
+* [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) by Bill Ackman for Big Think. 🌟<br>
+* [The Intelligent Investor: Animated Version](https://youtu.be/7B72GjlKKPY)<br>
+* [Charlie Munger and Warren Buffett's Investing Checklist Explained](https://youtu.be/UwD2OgMJONM)<br>
+* [Peter Lynch On How To Pick Stocks](https://www.youtube.com/watch?v=r2h84TORcJI)<br>
+* [Joel Greenblatt: Value Investing for Small Investors](https://www.youtube.com/watch?v=0b3M8edXECo)<br>
+* [Billionaire Prem Watsa: Value Investing Philosophy and Strategy](https://www.youtube.com/watch?v=BkOhD7P5t_c) by Investors Archive.<br>
+* [Jeffrey Ubben: The Evolution of the Active Value Investment Style (1)](https://www.youtube.com/watch?v=cbFBQAm75ew)<br>
 
 ### Psychology
-🚀 &nbsp;&nbsp;&nbsp;[The Psychology of Human Misjudgement](https://www.youtube.com/watch?v=pqzcCfUglws) by Charlie Munger.<br>
+* [The Psychology of Human Misjudgement](https://www.youtube.com/watch?v=pqzcCfUglws) by Charlie Munger.<br>
 
-## Articles
+# Articles
 ### General
-🛩 &nbsp;&nbsp;&nbsp;[A Conversation with Ben Graham](http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf) by Financial Analysts Journal.<br>
-🛩 &nbsp;&nbsp;&nbsp;[A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management & Business](https://old.ycombinator.com/munger.html) by Charles Munger. ❤️<br>
-🛩 &nbsp;&nbsp;&nbsp;[John Huber's Investment Checklist](http://basehitinvesting.com/my-investment-checklist/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Warren Buffett: How Charlie Convinced Me To Break My Cigar-Butt Investing Habit](https://www.reddit.com/r/ValueInvesting/comments/5u2i8g/warren_buffett_how_charlie_convinced_me_to_break/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Bruce Greenwald: Channeling Graham and Dodd](https://www.barrons.com/articles/bruce-greenwald-channeling-graham-and-dodd-1494649404) by Barron’s.<br>
-🚀 &nbsp;&nbsp;&nbsp;[Berkshire Hathaway Shareholder Letters](http://www.berkshirehathaway.com/letters/letters.html) ❤️<br>
-🚀 &nbsp;&nbsp;&nbsp;[Introduction to a Value Investing Process](http://csinvesting.org/wp-content/uploads/2012/06/greenwald-vi-process-foundation_final.pdf) by Bruce Greenblatt for Columbia Business School.<br>
-🚀 &nbsp;&nbsp;&nbsp;[How to Read a 10-K Annual Report Efficiently](http://www.rationalwalk.com/?p=15643)<br>
+* [A Conversation with Ben Graham](http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf) by Financial Analysts Journal.<br>
+* [A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management & Business](https://old.ycombinator.com/munger.html) by Charles Munger. 🌟<br>
+* [John Huber's Investment Checklist](http://basehitinvesting.com/my-investment-checklist/)<br>
+* [Warren Buffett: How Charlie Convinced Me To Break My Cigar-Butt Investing Habit](https://www.reddit.com/r/ValueInvesting/comments/5u2i8g/warren_buffett_how_charlie_convinced_me_to_break/)<br>
+* [Bruce Greenwald: Channeling Graham and Dodd](https://www.barrons.com/articles/bruce-greenwald-channeling-graham-and-dodd-1494649404) by Barron’s.<br>
+* [Berkshire Hathaway Shareholder Letters](http://www.berkshirehathaway.com/letters/letters.html) ❤️<br>
+* [Introduction to a Value Investing Process](http://csinvesting.org/wp-content/uploads/2012/06/greenwald-vi-process-foundation_final.pdf) by Bruce Greenblatt for Columbia Business School.<br>
+* [How to Read a 10-K Annual Report Efficiently](http://www.rationalwalk.com/?p=15643)<br>
 
 ### Psychology
-🛩 &nbsp;&nbsp;&nbsp;[8 Common Biases That Impact Investment Decisions](https://www.investopedia.com/advisor-network/articles/051916/8-common-biases-impact-investment-decisions/) by Brad Sherman for Investopedia.<br>
+* [8 Common Biases That Impact Investment Decisions](https://www.investopedia.com/advisor-network/articles/051916/8-common-biases-impact-investment-decisions/) by Brad Sherman for Investopedia.<br>
 
 ### Strategy
-🛩 &nbsp;&nbsp;&nbsp;[Q&A: Why a Value Investor Decided to Buy Bitcoin](https://www.barrons.com/articles/q-a-why-a-value-investor-decided-to-buy-bitcoin-1511810246) by Barron’s.<br>
-🛩 &nbsp;&nbsp;&nbsp;[Stock-Picking Strategies: Value Investing](https://www.investopedia.com/university/stockpicking/stockpicking3.asp) by Investopedia.<br>
+* [Q&A: Why a Value Investor Decided to Buy Bitcoin](https://www.barrons.com/articles/q-a-why-a-value-investor-decided-to-buy-bitcoin-1511810246) by Barron’s.<br>
+* [Stock-Picking Strategies: Value Investing](https://www.investopedia.com/university/stockpicking/stockpicking3.asp) by Investopedia.<br>
 
 ### Miscellaneous
-🛩 &nbsp;&nbsp;&nbsp;[What Could You Buy With $241 Trillion?](https://waitbutwhy.com/2014/03/combined-wealth-world.html) by [Waitbutwhy](https://waitbutwhy.com/).<br>
+* [What Could You Buy With $241 Trillion?](https://waitbutwhy.com/2014/03/combined-wealth-world.html) by [Waitbutwhy](https://waitbutwhy.com/).<br>
 
-## Talks
+# Talks
 ### Talks
-🛩 &nbsp;&nbsp;&nbsp;[Billionaire David Rubenstein on Private Equity and His Life](https://www.youtube.com/watch?v=WY2vpWM9v_Y)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Warren Buffett's Best Investment Advice & Strategies for Beginners](https://www.youtube.com/watch?v=DvlmvMa7eIw)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Walter Schloss: How I Choose Value Investments In Stocks](https://www.youtube.com/watch?v=7vSwovxE8xQ)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Michael Price speaking at the London Value Investor Conference 2013](https://www.youtube.com/watch?v=Nph-sDz1EtA)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Tom Gayner: "The Evolution of a Value Investor" | Talks at Google](https://www.youtube.com/watch?v=2sG91e1Wh4I)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Tobias Carlisle: "Deep Value Investing" | Talks at Google](https://www.youtube.com/watch?v=1r1vJZ80Z7I)<br>
+* [Billionaire David Rubenstein on Private Equity and His Life](https://www.youtube.com/watch?v=WY2vpWM9v_Y)<br>
+* [Warren Buffett's Best Investment Advice & Strategies for Beginners](https://www.youtube.com/watch?v=DvlmvMa7eIw)<br>
+* [Walter Schloss: How I Choose Value Investments In Stocks](https://www.youtube.com/watch?v=7vSwovxE8xQ)<br>
+* [Michael Price speaking at the London Value Investor Conference 2013](https://www.youtube.com/watch?v=Nph-sDz1EtA)<br>
+* [Tom Gayner: "The Evolution of a Value Investor" | Talks at Google](https://www.youtube.com/watch?v=2sG91e1Wh4I)<br>
+* [Tobias Carlisle: "Deep Value Investing" | Talks at Google](https://www.youtube.com/watch?v=1r1vJZ80Z7I)<br>
 
 ### Interviews
-🛩 &nbsp;&nbsp;&nbsp;[Larry Summers and Ray Dalio on Dalio's Unique Perspective of "How the Economic Machine Works"](https://soundcloud.com/economicprinciples/larry-summers-and-ray-dalio-how-the-economic-machine-works) at Harvard. ❤️<br>
-🛩 &nbsp;&nbsp;&nbsp;[Ray Dalio: Beating The Stock Market By Learning History (2017)](https://www.youtube.com/watch?v=i5LqCAtNJJ4)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Warren Buffett Goes in Depth on Investing and other things](https://www.youtube.com/watch?v=p_DQrNXeS8Y)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Seth Klarman on Value Investing, Investment Strategies and Advice for Success ❤️](https://www.youtube.com/watch?v=VmQNya2I-9I)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Mohnish Pabrai: Low risk, High uncertainty Value Investing](https://www.youtube.com/watch?v=GhM0q4yZKjI) by Investors Archive.<br>
+* [Larry Summers and Ray Dalio on Dalio's Unique Perspective of "How the Economic Machine Works"](https://soundcloud.com/economicprinciples/larry-summers-and-ray-dalio-how-the-economic-machine-works) at Harvard. ❤️<br>
+* [Ray Dalio: Beating The Stock Market By Learning History (2017)](https://www.youtube.com/watch?v=i5LqCAtNJJ4)<br>
+* [Warren Buffett Goes in Depth on Investing and other things](https://www.youtube.com/watch?v=p_DQrNXeS8Y)<br>
+* [Seth Klarman on Value Investing, Investment Strategies and Advice for Success ❤️](https://www.youtube.com/watch?v=VmQNya2I-9I)<br>
+* [Mohnish Pabrai: Low risk, High uncertainty Value Investing](https://www.youtube.com/watch?v=GhM0q4yZKjI) by Investors Archive.<br>
 
-## Books
-🛩 &nbsp;&nbsp;&nbsp;[A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing](https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=N9ATVH29QPX2K9T3GNYE) by Burton G. Malkiel.<br>
-🛩 &nbsp;&nbsp;&nbsp;[Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232/ref=sr_1_1?s=books&ie=UTF8&qid=1382100548&sr=1-1&keywords=economics+in+one+lesson) by Henry Hazlitt.<br>
-🛩 &nbsp;&nbsp;&nbsp;[The Essays of Warren Buffett: Lessons for Corporate America](https://www.amazon.com/gp/product/1611637589/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=valueinves08c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1611637589&linkId=6846360aca132772963eac1791a2c5d4) by Warren Buffett, arranged by Lawrence Cunningham.<br>
-🛩 &nbsp;&nbsp;&nbsp;[Value Investing: From Graham to Buffett and Beyond](https://www.amazon.com/gp/product/0471463396/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=valueinves08c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0471463396&linkId=9ddcfe4a5bcbc8e3d07a88c8420fb41c) — by Bruce Greenwald, Judd Kahn, Paul Sonkin, Michael van Biema.<br>
-🚀 &nbsp;&nbsp;&nbsp;[Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539) by Benjamin Graham and David Dodd. ❤️<br>
-🚀 &nbsp;&nbsp;&nbsp;[The Intelligent Investor: The Definitive Book on Value Investing](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) by Benjamin Graham. ❤️<br>
-🛸 &nbsp;&nbsp;&nbsp;[Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105) — This book is the Yeezy of value investing. Lots of hype, but still really good. There’s only a small number in circulation, and the price of $699+ reflects that. So here’s [a free PDF](https://finance.broad.msu.edu/files/2013/11/Margin-of-Safety.pdf). 😉 ❤️<br>
+# Books
+* [A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing](https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=N9ATVH29QPX2K9T3GNYE) by Burton G. Malkiel.<br>
+* [Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232/ref=sr_1_1?s=books&ie=UTF8&qid=1382100548&sr=1-1&keywords=economics+in+one+lesson) by Henry Hazlitt.<br>
+* [The Essays of Warren Buffett: Lessons for Corporate America](https://www.amazon.com/gp/product/1611637589/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=valueinves08c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1611637589&linkId=6846360aca132772963eac1791a2c5d4) by Warren Buffett, arranged by Lawrence Cunningham.<br>
+* [Value Investing: From Graham to Buffett and Beyond](https://www.amazon.com/gp/product/0471463396/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=valueinves08c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0471463396&linkId=9ddcfe4a5bcbc8e3d07a88c8420fb41c) — by Bruce Greenwald, Judd Kahn, Paul Sonkin, Michael van Biema.<br>
+* [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539) by Benjamin Graham and David Dodd. 🌟<br>
+* [The Intelligent Investor: The Definitive Book on Value Investing](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) by Benjamin Graham. 🌟<br>
+* [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105) — This book is the Yeezy of value investing. Lots of hype, but still really good. There’s only a small number in circulation, and the price of $699+ reflects that. So here’s [a free PDF](https://finance.broad.msu.edu/files/2013/11/Margin-of-Safety.pdf). 😉 ❗️<br>
 
-## Courses
+# Courses
 ### Lectures
-🚀 &nbsp;&nbsp;&nbsp;[Greenwald 2010 Lectures: Lecture 1](https://www.youtube.com/watch?v=NG_BdWV-S4w) by Bruce Greenwald for Columbia Business School. You’ll find the rest of the lectures on this person’s channel.<br>
+* [Greenwald 2010 Lectures: Lecture 1](https://www.youtube.com/watch?v=NG_BdWV-S4w) by Bruce Greenwald for Columbia Business School. You’ll find the rest of the lectures on this person’s channel.<br>
 
 ### MOOCs
-🛩 &nbsp;&nbsp;&nbsp;[Introduction to Finance: Valuation and Investing](https://www.coursera.org/specializations/valuation-investment) by The University of Michigan.<br>
-🛩 &nbsp;&nbsp;&nbsp;[Warren Buffett Investment Strategy](https://www.theinvestorspodcast.com/warren-buffett-investment-strategy/) by The Investor’s Podcast.<br>
-🛩 &nbsp;&nbsp;&nbsp;[Investopedia Academy](https://academy.investopedia.com/?aca_ref=header_home_link_1)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Behavioral Economics and Finance (Spring 2004)](https://ocw.mit.edu/courses/economics/14-127-behavioral-economics-and-finance-spring-2004) by MIT.<br>
-🚀 &nbsp;&nbsp;&nbsp;[Equity Valuation Class](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqfall15.htm) by Aswath Damodaran.<br>
-🚀 &nbsp;&nbsp;&nbsp;[Business and Financial Modeling](https://www.coursera.org/specializations/wharton-business-financial-modeling) by The Wharton School.<br>
+* [Introduction to Finance: Valuation and Investing](https://www.coursera.org/specializations/valuation-investment) by The University of Michigan.<br>
+* [Warren Buffett Investment Strategy](https://www.theinvestorspodcast.com/warren-buffett-investment-strategy/) by The Investor’s Podcast.<br>
+* [Investopedia Academy](https://academy.investopedia.com/?aca_ref=header_home_link_1)<br>
+* [Behavioral Economics and Finance (Spring 2004)](https://ocw.mit.edu/courses/economics/14-127-behavioral-economics-and-finance-spring-2004) by MIT.<br>
+* [Equity Valuation Class](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqfall15.htm) by Aswath Damodaran.<br>
+* [Business and Financial Modeling](https://www.coursera.org/specializations/wharton-business-financial-modeling) by The Wharton School.<br>
 
-## Lists
-🛩 &nbsp;&nbsp;&nbsp;[Here is a Dropbox of Investing Books](https://www.dropbox.com/sh/e19t7l8q5y5ctbj/AAB4DohzOZQUML28iXR7Tbzna?dl=0)<br>
-🛩 &nbsp;&nbsp;&nbsp;[The 11 Best Investment Books For Beginners](http://vintagevalueinvesting.com/best-investment-books-for-beginners/) by John Szramiak.<br>
-🛩 &nbsp;&nbsp;&nbsp;[60 of My Favorite Value Investing Resources You’d Be Crazy to Miss](https://www.oldschoolvalue.com/blog/resources/60-value-investing-resources/) by Jae Jun for Old School Value.<br>
-🛩 &nbsp;&nbsp;&nbsp;[Value Investing Resources](http://www.grahamanddoddsville.net/wordpress/?page_id=28) by Graham and Doddsville.<br>
-🛩 &nbsp;&nbsp;&nbsp;[Awesome Investing](https://github.com/mr-karan/awesome-investing)<br>
-🛩 &nbsp;&nbsp;&nbsp;[Resources on personal finance and investing!](https://github.com/si74/financial-reading-list)<br>
+# Lists
+* [Here is a Dropbox of Investing Books](https://www.dropbox.com/sh/e19t7l8q5y5ctbj/AAB4DohzOZQUML28iXR7Tbzna?dl=0)<br>
+* [The 11 Best Investment Books For Beginners](http://vintagevalueinvesting.com/best-investment-books-for-beginners/) by John Szramiak.<br>
+* [60 of My Favorite Value Investing Resources You’d Be Crazy to Miss](https://www.oldschoolvalue.com/blog/resources/60-value-investing-resources/) by Jae Jun for Old School Value.<br>
+* [Value Investing Resources](http://www.grahamanddoddsville.net/wordpress/?page_id=28) by Graham and Doddsville.<br>
+* [Awesome Investing](https://github.com/mr-karan/awesome-investing)<br>
+* [Resources on personal finance and investing!](https://github.com/si74/financial-reading-list)<br>
 
-## Communities
+# Communities
 ### Online
-🛩 &nbsp;&nbsp;&nbsp;[/r/ValueInvesting](https://www.reddit.com/r/ValueInvesting/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[/r/BerkshireHathaway](https://www.reddit.com/r/BerkshireHathaway)<br>
-🛩 &nbsp;&nbsp;&nbsp;[/r/Investing](https://www.reddit.com/r/Investing)<br>
-🛩 &nbsp;&nbsp;&nbsp;[/r/IntelligentInvesting](https://www.reddit.com/r/IntelligentInvesting)<br>
-🛩 &nbsp;&nbsp;&nbsp;[/r/PersonalFinance](https://www.reddit.com/r/PersonalFinance)<br>
-🛩 &nbsp;&nbsp;&nbsp;[r/business](https://www.reddit.com/r/business/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[r/StockMarket/](https://www.reddit.com/r/StockMarket/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[r/finance/](https://www.reddit.com/r/finance/)<br>
-🛩 &nbsp;&nbsp;&nbsp;[r/Economics/](https://www.reddit.com/r/Economics/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Security Analysis Discord Channel](https://discord.gg/gFu7Q3d)<br>
-🚀 &nbsp;&nbsp;&nbsp;[Microcap Club](http://microcapclub.com/)<br>
-🚀 &nbsp;&nbsp;&nbsp;[/r/SecurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)<br>
+* [/r/ValueInvesting](https://www.reddit.com/r/ValueInvesting/)<br>
+* [/r/BerkshireHathaway](https://www.reddit.com/r/BerkshireHathaway)<br>
+* [/r/Investing](https://www.reddit.com/r/Investing)<br>
+* [/r/IntelligentInvesting](https://www.reddit.com/r/IntelligentInvesting)<br>
+* [/r/PersonalFinance](https://www.reddit.com/r/PersonalFinance)<br>
+* [r/business](https://www.reddit.com/r/business/)<br>
+* [r/StockMarket/](https://www.reddit.com/r/StockMarket/)<br>
+* [r/finance/](https://www.reddit.com/r/finance/)<br>
+* [r/Economics/](https://www.reddit.com/r/Economics/)<br>
+* [Security Analysis Discord Channel](https://discord.gg/gFu7Q3d)<br>
+* [Microcap Club](http://microcapclub.com/)<br>
+* [/r/SecurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)<br>
 
 ### IRL
 * [Microcap Conference](http://microcapconf.com/)<br>
@@ -200,13 +194,13 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Beyond Proxy](http://www.beyondproxy.com/)<br>
 
 ## Threads
-🛩 &nbsp;&nbsp;&nbsp;[A great email from Microsoft's Jeff Raikes to Warren Buffett explaining Microsoft's business and investment merits (August 1997)](https://www.reddit.com/r/SecurityAnalysis/comments/71pdio/a_great_email_from_microsofts_jeff_raikes_to/) [](https://www.reddit.com/r/SecurityAnalysis/comments/71pdio/a_great_email_from_microsofts_jeff_raikes_to/)on /r/SecurityAnalysis. ❤️<br>
-🛩 &nbsp;&nbsp;&nbsp;[Who is Your Favorite Investor? (Not Named Warren!)](https://www.reddit.com/r/SecurityAnalysis/comments/6lvdbn/who_is_your_favorite_investor_not_named_warren/) on /r/SecurityAnalysis.<br>
-🚀 &nbsp;&nbsp;&nbsp;[Why doesn't everyone just buy shares in Berkshire Hathaway?](https://www.quora.com/Why-doesnt-everyone-just-buy-shares-in-Berkshire-Hathaway) on Quora.<br>
-🚀 &nbsp;&nbsp;&nbsp;[Hedge Fund: The Investment Life Cycle](https://www.wallstreetoasis.com/forums/hedge-fund-the-investment-life-cycle) on Wall Street Oasis.<br>
-🚀 &nbsp;&nbsp;&nbsp;[Anatomy of the 10-K](https://www.wallstreetoasis.com/forums/anatomy-of-the-10-k#new) on Wall Street Oasis.<br>
+* [A great email from Microsoft's Jeff Raikes to Warren Buffett explaining Microsoft's business and investment merits (August 1997)](https://www.reddit.com/r/SecurityAnalysis/comments/71pdio/a_great_email_from_microsofts_jeff_raikes_to/) [](https://www.reddit.com/r/SecurityAnalysis/comments/71pdio/a_great_email_from_microsofts_jeff_raikes_to/)on /r/SecurityAnalysis. 🌟<br>
+* [Who is Your Favorite Investor? (Not Named Warren!)](https://www.reddit.com/r/SecurityAnalysis/comments/6lvdbn/who_is_your_favorite_investor_not_named_warren/) on /r/SecurityAnalysis.<br>
+* [Why doesn't everyone just buy shares in Berkshire Hathaway?](https://www.quora.com/Why-doesnt-everyone-just-buy-shares-in-Berkshire-Hathaway) on Quora.<br>
+* [Hedge Fund: The Investment Life Cycle](https://www.wallstreetoasis.com/forums/hedge-fund-the-investment-life-cycle) on Wall Street Oasis.<br>
+* [Anatomy of the 10-K](https://www.wallstreetoasis.com/forums/anatomy-of-the-10-k#new) on Wall Street Oasis.<br>
 
-## Podcasts
+# Podcasts
 ### Podcasts
 * [Econtalk](http://www.econtalk.org/)
 * [Exchanges at Goldman Sachs](http://www.goldmansachs.com/our-thinking/podcasts/)
@@ -224,13 +218,13 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Value Investing Podcast](http://valuepodcast.com/)
 
 ### Episodes
-🛩 &nbsp;&nbsp;&nbsp;[Life Lessons from a Self-Made Billionaire: My Conversation With Ray Dalio](https://www.stitcher.com/podcast/shane-parrish/the-knowledge-project/e/51780769) by Farnam Street. ❤️<br>
-🛩 &nbsp;&nbsp;&nbsp;[Ray Dalio, The Steve Jobs of Investing](https://tim.blog/2017/09/13/ray-dalio/) by Tim Ferriss.<br>
+* [Life Lessons from a Self-Made Billionaire: My Conversation With Ray Dalio](https://www.stitcher.com/podcast/shane-parrish/the-knowledge-project/e/51780769) by Farnam Street. 🌟<br>
+* [Ray Dalio, The Steve Jobs of Investing](https://tim.blog/2017/09/13/ray-dalio/) by Tim Ferriss.<br>
 
-## Newsletters
+# Newsletters
 * [The Heilbrunn Center for Graham & Dodd Investing](https://www8.gsb.columbia.edu/valueinvesting/resources/newsletters)
 
-## Films
+# Films
 ### Documentaries
 * [Warren Buffett - HBO Documentary 2017](http://bit.ly/2nmzF2U)
 * [Inside Job (2010)](http://www.imdb.com/title/tt1645089/)
@@ -240,14 +234,14 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Margin Call (2011)](http://www.imdb.com/title/tt1615147/)
 * [Wall Street (1987)](http://www.imdb.com/title/tt0094291/)
 
-## Wikis
+# Wikis
 * [Investopedia](http://www.investopedia.com)
 
-## News
+# News
 * [Abnormal Returns](http://abnormalreturns.com/)
 * [Value Walk](http://valuewalk.com/)
 * [Barron’s](http://online.barrons.com/home-page)
-* [Bloomberg](http://www.bloomberg.com/) ❤️
+* [Bloomberg](http://www.bloomberg.com/) 🌟
 * [The Economist](http://www.economist.com/)
 * [Financial Times](http://www.ft.com/home/us)
 * [Institutional Investor](http://www.institutionalinvestor.com/)
@@ -255,5 +249,5 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Reuters](http://www.reuters.com/)
 * [Wall Street Journal](http://online.wsj.com/home-page)
 
-## Research Papers
-🛸 &nbsp;&nbsp;&nbsp;[Economic Principles](http://www.economicprinciples.org/wp-content/uploads/ray_dalio__how_the_economic_machine_works__leveragings_and_deleveragings.pdf#page=2) by Ray Dalio. ❤️<br>
+# Research Papers
+* [Economic Principles](http://www.economicprinciples.org/wp-content/uploads/ray_dalio__how_the_economic_machine_works__leveragings_and_deleveragings.pdf#page=2) by Ray Dalio. ❗ 🌟<br>
