@@ -3,7 +3,7 @@
 
 There are many charlatans spewing non-scientific garbage on the Internet. We’ve done our best to curate those sources out and only include resources that are based on real science. Because of this, there are less resources here than in our other lists. If you know any good resources that we’ve missed, let us know in the comments below.
 
-If you’re completely new to fitness and nutrition, start with **Start Here**. This should tell you everything you’d ever *need* to know about building muscle; but if you’re still curious, explore everything else below.
+If you’re completely new to fitness and nutrition, start with **Start Here**. This should tell you everything you’d ever *need* to know about building muscle; but if you’re still curious, explore everything else below. Resources marked with ❗️ are difficult, and those with 🌟 are our favorite.
 
 # Start Here
 1. [Metabolism & Nutrition, part 1: Crash Course A&P #36](https://www.youtube.com/watch?v=fR3NxCR9z2U) by Crash Course.
@@ -14,7 +14,7 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 6. [Building Muscle](https://www.julian.com/learn/muscle/intro) by Julian Shapiro.
 
 # Context
-## Glossary
+### Glossaries
 * [Ultimate Glossary of Strength and Conditioning Terms](https://www.artofmanliness.com/2016/02/03/the-ultimate-glossary-of-strength-and-conditioning-terms/) by Art of Manliness.
 
 # Guides
@@ -36,13 +36,13 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [CrossFit’s channel](https://www.youtube.com/channel/UCtcQ6TPwXAYgZ1Mcl3M1vng)
 
 # Videos
-## Muscles
+### Muscles
 * [Muscles, part 1 - Muscle Cells: Crash Course A&P #21](https://www.youtube.com/watch?v=Ktv-CaOt6UQ) by Crash Course.
 * [Muscles, part 2 - Organismal Level: Crash Course A&P #22](https://www.youtube.com/watch?v=I80Xx7pA9hQ) by Crash Course.
 * [What makes muscles grow?](https://www.youtube.com/watch?v=2tM1LFFxeKg) by TED-Ed.
 * [How Does Protein Build Muscle?](https://www.youtube.com/watch?v=L5-tKciXEG8) by Reactions.
 
-## Nutrition
+### Nutrition
 * [The Deal with Protein](https://www.youtube.com/watch?v=Chbm84sCBAw) by SciShow.
 * [The Deal with Carbs](https://www.youtube.com/watch?v=Q29F4a61J7k) by SciShow.
 * [The Deal with Fat](https://www.youtube.com/watch?v=mvvx2yQRbzQ) by SciShow.
@@ -50,10 +50,10 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [Metabolism & Nutrition, part 2: Crash Course A&P #37](https://www.youtube.com/watch?v=fR3NxCR9z2U) by Crash Course.
 * [How Bacteria Rule Over Your Body – The Microbiome](https://www.youtube.com/watch?v=VzPD009qTN4) by Kurzgesagt.
 
-## Burning Fat
+### Burning Fat
 * [When You Burn Fat, Where Does it Go?](https://www.youtube.com/watch?v=C8ialLlcdcw) by SciShow.
 
-## GMOs
+### GMOs
 * [Why are GMOs bad?](https://www.youtube.com/watch?v=sH4bi60alZU) by SciShow.
 * [Are GMOs Good or Bad? Genetic Engineering & Our Food](https://www.youtube.com/watch?v=7TmcXYp8xu4) by Kurzgesagt.
 
@@ -77,18 +77,16 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [Bodyweight Strength Training Anatomy](https://www.amazon.com/dp/B00EQ5U4BK/ref=cm_sw_r_cp_apa_QwHQxb9M2YZ54) by Brett Contreras.
 * [Practical Programming for Strength Training](https://www.amazon.com/Practical-Programming-Strength-Training-Rippetoe/dp/0982522754) by Mark Rippetoe.
 
-## Textbooks
+### Textbooks
 * [Essentials of Strength Training and Conditioning](https://www.amazon.com/Essentials-Strength-Training-Conditioning-Resource/dp/149250162X) by National Strength and Conditioning Association.
-
-### Hard ❗️
-* [Atlas of Human Anatomy: Including Student Consult Interactive Ancillaries and Guides](https://www.amazon.com/Atlas-Human-Anatomy-Interactive-Ancillaries/dp/1455704180/ref=sr_1_1?ie=UTF8&qid=1470757904&sr=8-1&keywords=netters) by Frank Netter.
+* [Atlas of Human Anatomy: Including Student Consult Interactive Ancillaries and Guides](https://www.amazon.com/Atlas-Human-Anatomy-Interactive-Ancillaries/dp/1455704180/ref=sr_1_1?ie=UTF8&qid=1470757904&sr=8-1&keywords=netters) by Frank Netter. ❗️
 
 # Courses
-## Exercise
+### Exercise
 * [Science of Exercise](https://www.coursera.org/learn/science-exercise) by Robert Mazzeo for University of Colorado Boulder.
 * [The Body Matters: Why Exercise Makes You Healthy and How to Stay Uninjured](https://www.edx.org/course/body-matters-why-exercise-makes-you-mcgillx-body101x-0) by Ian Shrier for McGill.
 
-## Nutrition
+### Nutrition
 * [Health and Medicine](https://www.khanacademy.org/science/health-and-medicine) by Khan Academy.
 * [Nutrition and Health: Macronutrients and Overnutrition](https://www.edx.org/course/nutrition-health-macronutrients-wageningenx-nutr101x-0) by Sander Kersten for Wageningen University.
 * [Nutrition and Health: Micronutrients and Malnutrition](https://www.edx.org/course/nutrition-health-micronutrients-wageningenx-nutr102x-0) by Sander Kersten for Wageningen University.
@@ -117,14 +115,12 @@ If you’re completely new to fitness and nutrition, start with **Start Here**. 
 * [Nutrition Tuesdays](https://www.reddit.com/r/Fitness/comments/l0fyo/nutrition_tuesdays/) on /r/Fitness.
 
 # Podcasts
-## Podcasts
 * [FoundMyFitness](https://www.stitcher.com/podcast/foundmyfitness) by Dr. Rhonda Patrick.
 
 # Newsletters
 * [StrengthTheory](https://www.strongerbyscience.com/) by Stronger By Science.
 
 # Films
-## Documentaries
 * [Pumping Iron Documentary - Arnold Schwarzenegger](https://www.youtube.com/watch?v=wiXxifU5ilQ)
 
 # Wikis
