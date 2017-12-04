@@ -41,7 +41,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Safal Niveshak](http://www.safalniveshak.com/)<br>
 * [FutureBlind](http://www.futureblind.com/)<br>
 * [Value and Opportunity](http://valueandopportunity.com/)<br>
-* [Farnam Street](http://www.farnamstreetblog.com/) ❤️<br>
+* [Farnam Street](http://www.farnamstreetblog.com/) 🌟<br>
 * [The Guru Investor](http://theguruinvestor.com/)<br>
 * [Value Investing World](http://www.valueinvestingworld.com/)<br>
 * [Tren Griffin’s blog on investing](http://25iq.com/)<br>
@@ -74,11 +74,11 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [The Rational Walk](http://www.rationalwalk.com/)<br>
 * [Fundoo Professor](https://fundooprofessor.wordpress.com/)<br>
 * [Gannon and Hoang on Investing](http://gannonandhoangoninvesting.com/)<br>
-* [Value Ventures ❤️](http://oraclefromomaha.wordpress.com/)<br>
+* [Value Ventures](http://oraclefromomaha.wordpress.com/) 🌟<br>
 
 # YouTube
 ### Channels
-* [Investor’s Archive ❤️](https://www.youtube.com/channel/UCVJalJNQWimC2zWrIHR_bSQ)<br>
+* [Investor’s Archive](https://www.youtube.com/channel/UCVJalJNQWimC2zWrIHR_bSQ) 🌟<br>
 * [L2inc](https://www.youtube.com/channel/UCBcRF18a7Qf58cCRy5xuWwQ)<br>
 
 ### Playlists
@@ -112,7 +112,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [John Huber's Investment Checklist](http://basehitinvesting.com/my-investment-checklist/)<br>
 * [Warren Buffett: How Charlie Convinced Me To Break My Cigar-Butt Investing Habit](https://www.reddit.com/r/ValueInvesting/comments/5u2i8g/warren_buffett_how_charlie_convinced_me_to_break/)<br>
 * [Bruce Greenwald: Channeling Graham and Dodd](https://www.barrons.com/articles/bruce-greenwald-channeling-graham-and-dodd-1494649404) by Barron’s.<br>
-* [Berkshire Hathaway Shareholder Letters](http://www.berkshirehathaway.com/letters/letters.html) ❤️<br>
+* [Berkshire Hathaway Shareholder Letters](http://www.berkshirehathaway.com/letters/letters.html) 🌟<br>
 * [Introduction to a Value Investing Process](http://csinvesting.org/wp-content/uploads/2012/06/greenwald-vi-process-foundation_final.pdf) by Bruce Greenblatt for Columbia Business School.<br>
 * [How to Read a 10-K Annual Report Efficiently](http://www.rationalwalk.com/?p=15643)<br>
 
@@ -136,10 +136,10 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Tobias Carlisle: "Deep Value Investing" | Talks at Google](https://www.youtube.com/watch?v=1r1vJZ80Z7I)<br>
 
 ### Interviews
-* [Larry Summers and Ray Dalio on Dalio's Unique Perspective of "How the Economic Machine Works"](https://soundcloud.com/economicprinciples/larry-summers-and-ray-dalio-how-the-economic-machine-works) at Harvard. ❤️<br>
+* [Larry Summers and Ray Dalio on Dalio's Unique Perspective of "How the Economic Machine Works"](https://soundcloud.com/economicprinciples/larry-summers-and-ray-dalio-how-the-economic-machine-works) at Harvard. 🌟<br>
 * [Ray Dalio: Beating The Stock Market By Learning History (2017)](https://www.youtube.com/watch?v=i5LqCAtNJJ4)<br>
 * [Warren Buffett Goes in Depth on Investing and other things](https://www.youtube.com/watch?v=p_DQrNXeS8Y)<br>
-* [Seth Klarman on Value Investing, Investment Strategies and Advice for Success ❤️](https://www.youtube.com/watch?v=VmQNya2I-9I)<br>
+* [Seth Klarman on Value Investing, Investment Strategies and Advice for Success](https://www.youtube.com/watch?v=VmQNya2I-9I) 🌟<br>
 * [Mohnish Pabrai: Low risk, High uncertainty Value Investing](https://www.youtube.com/watch?v=GhM0q4yZKjI) by Investors Archive.<br>
 
 # Books
