@@ -1,7 +1,7 @@
 # CRISPR & Gene Editing
 *A curated index of the best learning resources on CRISPR & gene editing.*
 
-<a href="https://github.com/AthenaAI/athenas-list_one"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/athenas-list.png" alt="Athena's List" width="135px"></a>
+<a href="https://github.com/AthenaAI/athenas-list_one"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/athenas-list.png" alt="Athena's List" width="135px"></a>
 
 If you’re completely new to these ideas, start with **Start Here**. This should tell you everything you’d ever need to know about CRISPR; but if you’re still curious, explore everything else below. Resources marked with ❗️ are difficult, and those with 🌟 are our favorite.
 
