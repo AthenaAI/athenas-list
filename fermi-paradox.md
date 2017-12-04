@@ -10,7 +10,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 2. [The Fermi Paradox II — Solutions & Ideas](https://www.youtube.com/watch?v=1fQkVqno-uI) by Kurzgesagt.
 3. [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html) by Tim Urban on Wait But Why.
 
-# Context
+## Context
 ### Influential People
 * [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) — Physicist that created the world's first nuclear reactor, and famous for pondering the question of “Where are all the aliens?”
 * [Frank Drake](https://en.wikipedia.org/wiki/Frank_Drake) — Astronomer and astrophysicist notable for being one of the pioneers in the search for extraterrestrial intelligence, founding [SETI](https://en.wikipedia.org/wiki/SETI), and developing the [Drake Equation](https://en.wikipedia.org/wiki/Drake_equation).
@@ -22,23 +22,23 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) — Founder of [PayPal](https://en.wikipedia.org/wiki/PayPal), [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.), and [SpaceX](https://en.wikipedia.org/wiki/SpaceX).
 * [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) — Founder of [Amazon.com](https://en.wikipedia.org/wiki/Amazon_(company)), [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin), and [Bezos Expeditions](https://en.wikipedia.org/wiki/Jeff_Bezos#Bezos_Expeditions).
 
-## Glossaries
+### Glossaries
 * [Glossary of astronomy](https://en.wikipedia.org/wiki/Glossary_of_astronomy) by Wikipedia.
 
-# Guides
+## Guides
 * [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html) by Tim Urban on Wait But Why. 🌟<br>
 * [The Fermi Paradox—A Ridiculously Comprehensive Guide](https://emanuelefaja.com/the-fermi-paradox-a-ridiculously-comprehensive-guide-ae0c5c9f3a0) by Emanuele Faja.<br>
 
-# Blogs
+## Blogs
 * [Singularity Hub](https://singularityhub.com)<br>
 * [The Daily Galaxy](http://dailygalaxy.com)<br>
 * [Researcher Matteo Cantinelli’s blog series on Fermi’s paradox](https://www.authorea.com/users/2/articles/10997-are-we-alone-in-the-universe-habitable-planets/_show_article) 🌟<br>
 
-# YouTube Channels
+## YouTube Channels
 * [Isaac Arthur’s channel](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g) — Exploring concepts in science with an emphasis on futurism and space exploration.<br>
 * [Deep Astronomy](https://www.youtube.com/channel/UCQkLvACGWo8IlY1-WKfPp6g)<br>
 
-# Videos
+## Videos
 ### General
 * [The Fermi Paradox — Where Are All the Aliens?](https://www.youtube.com/watch?v=sNhhvQGsMEc) by Kurzgesagt. 🌟<br>
 * [The Fermi Paradox II — Solutions & Ideas](https://www.youtube.com/watch?v=1fQkVqno-uI) by Kurzgesagt. 🌟<br>
@@ -60,7 +60,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [Neil deGrasse Tyson Explains Why We Haven't Found Aliens (Yet)](https://www.youtube.com/watch?v=JC49HUhibFQ) by ThinkTank.<br>
 * [Are You Alone? (In The Universe)](https://www.youtube.com/watch?v=PKMQzkIiB0Y) by Kurzgesagt.<br>
 
-# Articles
+## Articles
 ### General
 * [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox) by Wikipedia.<br>
 * [Do aliens exist?](https://ocw.mit.edu/high-school/physics/the-big-questions/lecture-notes-and-videos/MITHFH_bigquest_lec4.pdf) by MIT OCW. 🌟<br>
@@ -91,7 +91,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [The Fermi Paradox: Why Are There No Tourist from Other Worlds?](https://www.youtube.com/watch?v=lFUrnwJ7Bnc) by the SETI Institute.<br>
 * [Habitable Planet Statistics - Claudio Maccone (SETI Talks)](https://www.youtube.com/watch?v=xNe5hVvaXkk) by the SETI Institute.<br>
 
-# Books
+## Books
 ### Nonfiction
 * [If the Universe Is Teeming with Aliens ... WHERE IS EVERYBODY?: Fifty Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life](https://www.amazon.com/dp/0387955011/ref=cm_sw_su_dp) by Stephen Webb.<br>
 
@@ -101,7 +101,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [Revelation Space](https://www.amazon.com/Revelation-Space-Alastair-Reynolds/dp/0441009425) by Alastair Reynolds.<br>
 * [Blindsight](https://www.amazon.com/Blindsight-Peter-Watts/dp/0765319640) by Peter Watts.<br>
 
-# Courses
+## Courses
 ### Lectures
 * [Fermi Paradox](https://www.coursera.org/learn/life-on-other-planets/lecture/LfTHX/fermi-paradox) by David Spergel for Princeton University.<br>
 * [MoCA public lecture - Philip Judge, "Are we alone in the Universe?"](https://www.youtube.com/watch?v=zSkGSk5rDBQ) for the Monash Centre for Astrophysics.<br>
@@ -111,13 +111,13 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [Astronomy: Exploring Time and Space](https://www.coursera.org/learn/astro) by Chris Impey for University of Arizona.<br>
 * [Life in the Universe](http://www.physics.nau.edu/~trilling/teaching/spring2010/lecture/index.html) by David E. Trilling for Northern Arizona University.<br>
 
-# Lists
+## Lists
 * [A curated list of awesome resources related to Outer Space](https://github.com/elburz/awesome-space)<br>
 * [A big list of space book and whitepaper recommendations](https://github.com/mkrultra/space-reads) 🌟<br>
 * [A list of space exploration related books (some are online, some are on paper)](https://github.com/Hunter-Github/awesome-space-books)<br>
 * [Just a list of interesting papers about exoplanets, civilization, and Fermi paradox](https://github.com/InterImm/xpaper)<br>
 
-# Communities
+## Communities
 * [/r/FermiParadox](https://www.reddit.com/r/FermiParadox/)<br>
 * [/r/space](https://www.reddit.com/r/space)<br>
 * [/r/SETI](https://www.reddit.com/r/SETI/)<br>
@@ -126,7 +126,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [/r/AncientAliens](https://www.reddit.com/r/AncientAliens/)<br>
 * [/r/aliens](https://www.reddit.com/r/aliens/)<br>
 
-# Threads
+## Threads
 * [The Fermi Paradox: we're either rare, first or fucked](https://www.reddit.com/r/space/comments/3ehzkp/the_fermi_paradox_were_either_rare_first_or_fucked/) on /r/space.<br>
 * [ELI5 "The Great Filter" theory and why is it scary](https://www.reddit.com/r/explainlikeimfive/comments/31ojr8/eli5_the_great_filter_theory_and_why_is_it_scary/) on /r/explainlikeimfive. 🌟<br>
 * [ELI5: Why are we trying to get in contact with aliens if messages will take millions or billions of years to go back and forth? (And they might not even be able to catch it or decipher it then)](https://www.reddit.com/r/explainlikeimfive/comments/5p03dh/eli5_why_are_we_trying_to_get_in_contact_with/) on /r/explainlikeimfive.<br>
@@ -139,7 +139,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [The Great Filter: Where are all the aliens?](https://www.reddit.com/r/Physics/comments/7bnqu0/the_great_filter_where_are_all_the_aliens/) on /r/Physics. 🌟<br>
 * [Is the Fermi Paradox theory likely true? Why or why not?](https://www.reddit.com/r/space/comments/6905ch/is_the_fermi_paradox_theory_likely_true_why_or/) on /r/space.<br>
 
-# Podcasts
+## Podcasts
 ### Podcasts
 * [Astronomy Cast](http://www.astronomycast.com/)<br>
 * [Superstars of Astronomy Podcast](http://www.astronomy.com/magazine/superstars-of-astronomy-podcast) by Astronomy.<br>
@@ -164,16 +164,16 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [Life in the Universe: The Fermi Paradox](https://podcasts.ox.ac.uk/life-universe-fermi-paradox) by the University of Oxford.<br>
 * [Joe Rogan & Duncan Trussell on Fermi Paradox, Time Travel, The Universe and Infinity](https://youtu.be/M4YXTwybe2U)<br>
 
-# Newsletters
+## Newsletters
 * [Space.com’s newsletter](https://www.space.com/newsletter)
 * [Planetary News’ newsletter](http://planetarynews.org/)
 * [Citizens For Space’s newsletter](http://www.citizensforspace.org/newsletter/)
 
-# Films
+## Films
 * [Neil deGrasse Tyson - Where are the aliens?](https://www.youtube.com/watch?v=zQrfh7PyrbM) 🌟<br>
 * [The Future of Space Travel and the FERMI Paradox](https://www.youtube.com/watch?v=_vsV2itprQI)<br>
 
-# News
+## News
 * [Space.com](http://space.com)
 * [SETI](http://seti.org)
 * [NASA](http://nasa.gov)
