@@ -66,8 +66,8 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)<br>
 
 ## Videos
-* [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) ❤️️<br>
-* [Expert Explains One Concept in 5 Levels of Difficulty - Blockchain | WIRED](https://www.youtube.com/watch?v=hYip_Vuv8J0&feature=youtu.be) ❤️️<br>
+* [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) 🌟<br>
+* [Expert Explains One Concept in 5 Levels of Difficulty - Blockchain | WIRED](https://www.youtube.com/watch?v=hYip_Vuv8J0&feature=youtu.be) 🌟<br>
 * [What is Bitcoin?](https://www.youtube.com/playlist?list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q) — A beginner’s guide to all things Bitcoin.<br>
 * [Trust Disrupted: Bitcoin and the Blockchain](https://www.youtube.com/watch?v=0gYkqsxi2gc&list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-) — YouTube series made by TechCrunch.<br>
 * [The Rise of Bitcoin](https://vimeo.com/110874487)<br>
@@ -76,7 +76,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [Bitcoin Might Fail but the Blockchain is Here to Stay](https://www.youtube.com/watch?v=jbu6I-8mNUo) by Brock Pierce on WIRED.<br>
 * [The Evolution of Bitcoin: Talks at GS Session Highlights](https://www.youtube.com/watch?v=7-vYEsfsa30) by Balaji Srinivasan for Goldman Sachs.<br>
 * [Ethereum Explained](https://www.youtube.com/watch?v=-_Qs0XdPpw8&feature=youtu.be)<br>
-* [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) ❤️️<br>
+* [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) 🌟<br>
 * [Visual Demonstration of a Blockchain](https://anders.com/blockchain/)<br>
 
 ## Articles
@@ -100,13 +100,13 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) by Vitalik Buterin.<br>
 * [Visions Part 1: The Value of Blockchain Technology](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/) by Vitalik Buterin.<br>
 * [Controlling your own wealth as a basic human right](https://blog.coinbase.com/controlling-your-own-wealth-is-a-basic-human-right-9fbe78341a7f) by Brian Armstrong.<br>
-* [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/) by Nick Szabo. ❤️<br>
+* [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/) by Nick Szabo. 🌟<br>
 * [No, non-Bitcoin Blockchains are not “Disrespectful” to Satoshi](http://moneyandstate.com/no-non-bitcoin-blockchains-are-not-disrespectful-to-satoshi/) by Erik Voorhees.<br>
 * [The Importance of Bitcoin Not Being Money](http://moneyandstate.com/the-importance-of-bitcoin-not-being-money/) by Erik Voorhees.<br>
 
 ### Technology
 * [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon.<br>
-* [Fat Protocols](http://www.usv.com/blog/fat-protocols) by Joel Monegro for Union Square Ventures. ❤️<br>
+* [Fat Protocols](http://www.usv.com/blog/fat-protocols) by Joel Monegro for Union Square Ventures. 🌟<br>
 * [The God Protocols](http://nakamotoinstitute.org/the-god-protocols/) by Nick Szabo.<br>
 * [Proof of Stake: How I Learned to Love Weak Subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) by Vitalik Buterin.<br>
 * [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/) by Ilya Grigorik. ❗️<br>
@@ -127,7 +127,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 ### Politics
 * [Building the Bridge: Why Compliance is Key to Digital Currencies Success](https://blog.coinbase.com/building-the-bridge-why-compliance-is-key-to-digital-currencys-success-7bfdd88a084c) by Brian Armstrong.<br>
 * [Bitcoin and the Seperation of Money and State](http://moneyandstate.com/bitcoin-separation-money-state/) by Erik Voorhees.<br>
-* [DAOs, Democracy and Governance](http://merkle.com/papers/DAOdemocracyDraft.pdf) by Ralph Merkle. ❗️ ❤️<br>
+* [DAOs, Democracy and Governance](http://merkle.com/papers/DAOdemocracyDraft.pdf) by Ralph Merkle. ❗️ 🌟<br>
 
 ## Talks
 * [How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) — TED Talk by Don Tapscott, the author of Blockchain Revolution.<br>
@@ -143,9 +143,9 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [We've stopped trusting institutions and started trusting strangers](https://www.ted.com/talks/rachel_botsman_we_ve_stopped_trusting_institutions_and_started_trusting_strangers) by Rachel Botsman at TED.<br>
 * [The future of money](https://www.ted.com/talks/neha_narula_the_future_of_money) by Neha Narula at TED.<br>
 * [Bitcoin. Sweat. Tide. Meet the future of branded currency](https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency) by Paul Kemp-Robertson at TED.<br>
-* [Balaji Srinivasan at Startup School 2013](https://www.youtube.com/watch?v=cOubCHLXT6A) for Y Combinator. ❤️<br>
+* [Balaji Srinivasan at Startup School 2013](https://www.youtube.com/watch?v=cOubCHLXT6A) for Y Combinator. 🌟<br>
 * [Bitcoin 101](https://www.youtube.com/watch?v=JIxwTx7o_B4) by Balaji Srinivasan for Khosla Ventures.<br>
-* [Devcon2: Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4) by Vitalik Buterin. ❤️<br>
+* [Devcon2: Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4) by Vitalik Buterin. 🌟<br>
 * [William Mougayar: "Blockchains: Past, Present and Future](https://www.youtube.com/watch?v=sl1U0Mu0qEU)” for Talks at Google.<br>
 * [Beyond Bitcoin: The Blockchain](https://a16z.com/2014/10/24/the-bitcoin-network-effect/) by Chris Dixon, Ed Felten, and Matthew Green for Andreessen Horowitz.<br>
 * [Arun Sundararajan: "The Sharing Economy and the Future of Digital Governance"](https://www.youtube.com/watch?v=yceuC1O-Q_8) for Talks at Google.<br>
@@ -170,7 +170,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [Introduction to Bitcoin and Decentralized Technology](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) on Pluralsight.<br>
 * [Blockchain essentials](https://developer.ibm.com/courses/all/blockchain-essentials/) by IBM.<br>
 * [The Basics of Blockchain](https://www.udemy.com/the-basics-of-blockchain/?utm_campaign=NEW-AW-PROS-TECH-Dev-Blockchain-EN-ENG_._ci_953294_._sl_ENG_._vi_TECH_._sd_All_._la_EN_._&utm_content=_._ag_course_._ad_185334137650_._de_c_._dm__._lo_9073496_._&k_clickid=08713bbf-89c9-42d3-b600-78c6da2a2080_408_GOOGLE_NEW-AW-PROS-TECH-Dev-Blockchain-EN-ENG_._ci_953294_._sl_ENG_._vi_TECH_._sd_All_._la_EN_.__course_blockchain%20courses_e_185334137650_c&utm_medium=udemyads&gclid=EAIaIQobChMI7teF-7nQ1wIVm4KzCh1JlA1AEAAYASAAEgKs8fD_BwE&matchtype=e&utm_source=adwords&utm_term=_._pl__._pd__._ti_kwd-255531190282_._kw_blockchain%20courses_._) on Udemy.<br>
-* [Entrepreneurship Without Borders](https://ocw.mit.edu/courses/sloan-school-of-management/15-395-entrepreneurship-without-borders-fall-2016/) by MIT OCW. ❤️<br>
+* [Entrepreneurship Without Borders](https://ocw.mit.edu/courses/sloan-school-of-management/15-395-entrepreneurship-without-borders-fall-2016/) by MIT OCW. 🌟<br>
 * [Blockchain 101: The Basics](https://www.udemy.com/blockchain101/) on Udemy.<br>
 * [Bitcoin Engineering](http://bitcoin.stanford.edu/) by Stanford.<br>
 * [Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251/) by Stanford.<br>
@@ -197,7 +197,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 
 ## Communities
 ### Online
-* [/r/Bitcoin](https://www.reddit.com/r/Bitcoin/) ❤️<br>
+* [/r/Bitcoin](https://www.reddit.com/r/Bitcoin/) 🌟<br>
 * [/r/Ethereum](https://www.reddit.com/r/ethereum/)<br>
 * [/r/BitcoinBeginners](https://www.reddit.com/r/BitcoinBeginners/)<br>
 * [/r/BitcoinDiscussion](https://www.reddit.com/r/BitcoinDiscussion/)<br>
@@ -242,7 +242,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [General Bitcoin Questions](https://www.reddit.com/r/Bitcoin/comments/2g9xkk/rbitcoin_is_currently_trending_if_youre_just/)<br>
 * [Vitalik Buterin: "Putin knows what blockchain is – this is the hype"](https://www.reddit.com/r/ethereum/comments/6xdsvr/vitalik_buterin_putin_knows_what_blockchain_is/)<br>
 * [How are Ethereum and Bitcoin centralized and decentralized?](https://www.quora.com/How-are-Ethereum-and-Bitcoin-centralized-and-decentralized/answer/Terrence-Yang-4?srid=ZtRt)<br>
-* [I want to learn everything about the blockchain, where do I start?](https://www.reddit.com/r/Entrepreneur/comments/3l7gj2/i_want_to_learn_everything_about_the_blockchain/) ❤️<br>
+* [I want to learn everything about the blockchain, where do I start?](https://www.reddit.com/r/Entrepreneur/comments/3l7gj2/i_want_to_learn_everything_about_the_blockchain/) 🌟<br>
 
 ## Podcasts
 ### Podcasts
@@ -259,10 +259,10 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [Hash Power – A Documentary on Blockchains & Cryptocurrencies](http://investorfieldguide.com/hashpower/)<br>
 * [a16z Podcast: Banking on the Blockchain](https://a16z.com/2016/05/09/business-blockchain/)<br>
 * [a16z Podcast: The Blockchain, in Congress](https://a16z.com/2017/05/19/congressional-blockchain-caucus/)<br>
-* [a16z Podcast: Blockchain vs./and Bitcoin](https://a16z.com/2015/11/11/blockchain-bitcoin-fintech/) ❤️<br>
+* [a16z Podcast: Blockchain vs./and Bitcoin](https://a16z.com/2015/11/11/blockchain-bitcoin-fintech/) 🌟<br>
 * [a16z Podcast: Cryptocurrencies, App Coins, and Investing in Protocols](https://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)<br>
 * [a16z Podcast: Why Crypto Tokens Matter](https://a16z.com/2017/09/28/cryptocurrencies-networks-tokens/)<br>
-* [The Quiet Mastery of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/) by Tim Ferriss. ❤️<br>
+* [The Quiet Mastery of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/) by Tim Ferriss. 🌟<br>
 
 ## Newsletters
 * [CoinPride Club](https://club.coinpride.com/)
@@ -292,7 +292,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 
 ## Research Papers
 ### General
-* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf) by Satoshi Nakamoto in 2008. ❤️<br>
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf) by Satoshi Nakamoto in 2008. 🌟<br>
 * [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf) by Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P '15. ❗️<br>
 
 ### Consensys
@@ -304,7 +304,7 @@ This list covers the topics of blockchain and cryptocurrencies. If you’re comp
 * [Distributed Cryptography Based on the Proofs of Work](https://eprint.iacr.org/2014/796) by Andrychowicz M, and Dziembowski S. '14. ❗️<br>
 
 ### Smart Contracts
-* ["Ethereum": A next-generation smart contract and decentralized application platform](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) by Vitalik Buterin in 2014. ❗️ ❤️<br>
+* ["Ethereum": A next-generation smart contract and decentralized application platform](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) by Vitalik Buterin in 2014. ❗️ 🌟<br>
 * [Ethereum: A secure decentralised generalised transaction ledger](http://gavwood.com/paper.pdf) by Wood G. '14. ❗️<br>
 
 ### Privacy
