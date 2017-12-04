@@ -24,13 +24,13 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [Glossary of astronomy](https://en.wikipedia.org/wiki/Glossary_of_astronomy) by Wikipedia.
 
 # Guides
-* [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html) by Tim Urban on Wait But Why. ❤️<br>
+* [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html) by Tim Urban on Wait But Why. 🌟<br>
 * [The Fermi Paradox—A Ridiculously Comprehensive Guide](https://emanuelefaja.com/the-fermi-paradox-a-ridiculously-comprehensive-guide-ae0c5c9f3a0) by Emanuele Faja.<br>
 
 # Blogs
 * [Singularity Hub](https://singularityhub.com)<br>
 * [The Daily Galaxy](http://dailygalaxy.com)<br>
-* [Researcher Matteo Cantinelli’s blog series on Fermi’s paradox](https://www.authorea.com/users/2/articles/10997-are-we-alone-in-the-universe-habitable-planets/_show_article) ❤️<br>
+* [Researcher Matteo Cantinelli’s blog series on Fermi’s paradox](https://www.authorea.com/users/2/articles/10997-are-we-alone-in-the-universe-habitable-planets/_show_article) 🌟<br>
 
 # YouTube Channels
 * [Isaac Arthur’s channel](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g) — Exploring concepts in science with an emphasis on futurism and space exploration.<br>
@@ -38,8 +38,8 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 
 # Videos
 ### General
-* [The Fermi Paradox — Where Are All the Aliens?](https://www.youtube.com/watch?v=sNhhvQGsMEc) by Kurzgesagt. ❤️<br>
-* [The Fermi Paradox II — Solutions & Ideas](https://www.youtube.com/watch?v=1fQkVqno-uI) by Kurzgesagt. ❤️<br>
+* [The Fermi Paradox — Where Are All the Aliens?](https://www.youtube.com/watch?v=sNhhvQGsMEc) by Kurzgesagt. 🌟<br>
+* [The Fermi Paradox II — Solutions & Ideas](https://www.youtube.com/watch?v=1fQkVqno-uI) by Kurzgesagt. 🌟<br>
 * [Why Can't We See Evidence of Alien Life?](https://www.youtube.com/watch?v=I2apGYUX7Q0) by TED-Ed.<br>
 * [Could human civilization spread across the whole galaxy? - Roey Tzezana](https://www.youtube.com/watch?v=Rpy9Qp7NAaw) by TED-Ed.<br>
 * [Von Neumann Probes and the Fermi Paradox](https://www.youtube.com/watch?v=GA8ziO8y8Qc) by Deep Astronomy.<br>
@@ -61,7 +61,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 # Articles
 ### General
 * [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox) by Wikipedia.<br>
-* [Do aliens exist?](https://ocw.mit.edu/high-school/physics/the-big-questions/lecture-notes-and-videos/MITHFH_bigquest_lec4.pdf) by MIT OCW. ❤️<br>
+* [Do aliens exist?](https://ocw.mit.edu/high-school/physics/the-big-questions/lecture-notes-and-videos/MITHFH_bigquest_lec4.pdf) by MIT OCW. 🌟<br>
 * [The Fermi Paradox, Where Are All the Aliens? (Infographic)](https://futurism.com/10-solutions-to-the-fermi-paradox/) by Jaime Trosper for Futurism.<br>
 * [The Fermi Paradox](https://www.astro.umd.edu/~miller/teaching/astr380f09/lecture25.pdf) by Cole Miller for University of Maryland.<br>
 * [Fermi Paradox](https://www.seti.org/seti-institute/project/details/fermi-paradox) by the SETI Institute.<br>
@@ -105,13 +105,13 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [MoCA public lecture - Philip Judge, "Are we alone in the Universe?"](https://www.youtube.com/watch?v=zSkGSk5rDBQ) for the Monash Centre for Astrophysics.<br>
 
 ### MOOCs
-* [Imagining Other Earths](https://www.coursera.org/learn/life-on-other-planets) by David Spergel for Princeton University. ❤️<br>
+* [Imagining Other Earths](https://www.coursera.org/learn/life-on-other-planets) by David Spergel for Princeton University. 🌟<br>
 * [Astronomy: Exploring Time and Space](https://www.coursera.org/learn/astro) by Chris Impey for University of Arizona.<br>
 * [Life in the Universe](http://www.physics.nau.edu/~trilling/teaching/spring2010/lecture/index.html) by David E. Trilling for Northern Arizona University.<br>
 
 # Lists
 * [A curated list of awesome resources related to Outer Space](https://github.com/elburz/awesome-space)<br>
-* [A big list of space book and whitepaper recommendations](https://github.com/mkrultra/space-reads) ❤️<br>
+* [A big list of space book and whitepaper recommendations](https://github.com/mkrultra/space-reads) 🌟<br>
 * [A list of space exploration related books (some are online, some are on paper)](https://github.com/Hunter-Github/awesome-space-books)<br>
 * [Just a list of interesting papers about exoplanets, civilization, and Fermi paradox](https://github.com/InterImm/xpaper)<br>
 
@@ -126,7 +126,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 
 # Threads
 * [The Fermi Paradox: we're either rare, first or fucked](https://www.reddit.com/r/space/comments/3ehzkp/the_fermi_paradox_were_either_rare_first_or_fucked/) on /r/space.<br>
-* [ELI5 "The Great Filter" theory and why is it scary](https://www.reddit.com/r/explainlikeimfive/comments/31ojr8/eli5_the_great_filter_theory_and_why_is_it_scary/) on /r/explainlikeimfive. ❤️<br>
+* [ELI5 "The Great Filter" theory and why is it scary](https://www.reddit.com/r/explainlikeimfive/comments/31ojr8/eli5_the_great_filter_theory_and_why_is_it_scary/) on /r/explainlikeimfive. 🌟<br>
 * [ELI5: Why are we trying to get in contact with aliens if messages will take millions or billions of years to go back and forth? (And they might not even be able to catch it or decipher it then)](https://www.reddit.com/r/explainlikeimfive/comments/5p03dh/eli5_why_are_we_trying_to_get_in_contact_with/) on /r/explainlikeimfive.<br>
 * [ELI5: When we pick up radio waves from outer space, how do we interpret if they came from a natural source versus artificial source (i.e. Alien music)? How is an electromagnetic wave converted to a mechanical sound wave?](https://www.reddit.com/r/explainlikeimfive/comments/6y2xcn/eli5_when_we_pick_up_radio_waves_from_outer_space/) on /r/explainlikeimfive.<br>
 * [ELI5: How many earth-like planets can aliens see in our solar system using our technology?](https://www.reddit.com/r/explainlikeimfive/comments/5vkftr/eli5_how_many_earthlike_planets_can_aliens_see_in/) on /r/explainlikeimfive.<br>
@@ -134,7 +134,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [What are some of the most interesting solutions to the Fermi Paradox?](https://www.quora.com/What-are-some-of-the-most-interesting-solutions-to-the-Fermi-Paradox) on Quora.<br>
 * [Reddit, what's the scariest theory known to mankind?](https://www.reddit.com/r/AskReddit/comments/65j9gt/reddit_whats_the_scariest_theory_known_to_mankind/) on /r/AskReddit.<br>
 * [What are some of your own or 'favourite' Great Filter theories? (Fermi Paradox)](https://www.reddit.com/r/space/comments/37yysv/what_are_some_of_your_own_or_favourite_great/) on /r/space.<br>
-* [The Great Filter: Where are all the aliens?](https://www.reddit.com/r/Physics/comments/7bnqu0/the_great_filter_where_are_all_the_aliens/) on /r/Physics. ❤️<br>
+* [The Great Filter: Where are all the aliens?](https://www.reddit.com/r/Physics/comments/7bnqu0/the_great_filter_where_are_all_the_aliens/) on /r/Physics. 🌟<br>
 * [Is the Fermi Paradox theory likely true? Why or why not?](https://www.reddit.com/r/space/comments/6905ch/is_the_fermi_paradox_theory_likely_true_why_or/) on /r/space.<br>
 
 # Podcasts
@@ -146,7 +146,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [Cosmic Vertigo](https://play.radiopublic.com/cosmic-vertigo-abc-rn-8gJ0E1)<br>
 * [Orbital Path](https://play.radiopublic.com/orbital-path-1WDMA6)<br>
 * [Planetary Radio: Space Exploration, Astronomy and Science](https://play.radiopublic.com/planetary-radio-space-exploration-astronomy-and-science-GApXo8)<br>
-* [Main Engine Cut Off](https://play.radiopublic.com/main-engine-cut-off-8Xrpk1) — A short, weekly podcast about spaceflight, exploration, policy, and strategy in the modern era and near future. ❤️<br>
+* [Main Engine Cut Off](https://play.radiopublic.com/main-engine-cut-off-8Xrpk1) — A short, weekly podcast about spaceflight, exploration, policy, and strategy in the modern era and near future. 🌟<br>
 * [StarTalk](https://www.startalkradio.net/) by Neil DeGrasse Tyson.<br>
 
 ### Episodes
@@ -168,7 +168,7 @@ This list covers topics like the Fermi Paradox, the Drake Equation, the Great Fi
 * [Citizens For Space’s newsletter](http://www.citizensforspace.org/newsletter/)
 
 # Films
-* [Neil deGrasse Tyson - Where are the aliens?](https://www.youtube.com/watch?v=zQrfh7PyrbM) ❤️<br>
+* [Neil deGrasse Tyson - Where are the aliens?](https://www.youtube.com/watch?v=zQrfh7PyrbM) 🌟<br>
 * [The Future of Space Travel and the FERMI Paradox](https://www.youtube.com/watch?v=_vsV2itprQI)<br>
 
 # News
