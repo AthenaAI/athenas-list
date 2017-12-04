@@ -1,6 +1,8 @@
 # Aliens & Fermi's Paradox
 *A curated index of the best learning resources on the Internet for aliens and the Fermi Paradox.*
 
+<a href="https://github.com/AthenaAI/athenas-list_one"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/athenas-list.png" alt="Athena's List" width="135px"></a>
+
 This list covers topics like the Fermi Paradox, the Drake Equation, the Great Filter, extraterrestrial life, space exploration, or generally the question of “Where are all the aliens?” If you’re completely new to these ideas, start with **Start Here**. This should tell you everything you’d ever *need* to know about aliens and Fermi’s Paradox; but if you’re still curious, explore everything else below. Resources marked with ❗️ are difficult, and those with 🌟 are our favorite.
 
 # Start Here
