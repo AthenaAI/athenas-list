@@ -1,7 +1,7 @@
 # Nutrition & Building Muscle
 *A curated index of the best learning resources on the Internet about nutrition and muscle-building.*
 
-<a href="https://github.com/AthenaAI/athenas-list_one"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/athenas-list.png" alt="Athena's List" width="135px"></a>
+<a href="https://github.com/AthenaAI/athenas-list_one"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/athenas-list.png" alt="Athena's List" height="30px"></a> <a href="http://www.athena.cool/#subscribe"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/list-subscribe.png" alt="Athena's List" height="30px"></a>
 
 There are many charlatans spewing non-scientific garbage on the Internet. We’ve done our best to curate those sources out and only include resources that are based on real science. Because of this, there are less resources here than in our other lists. If you know any good resources that we’ve missed, let us know in the comments below.
 
