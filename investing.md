@@ -5,13 +5,13 @@
 
 This list covers the topic of value investing. If you’re completely new to this, start with **Start Here**. This should tell you everything you’d ever *need* to know about it; but if you’re still curious, explore everything else below. Resources marked with ❗️ are difficult, and those with 🌟 are our favorite.
 
-# Start Here
+## Start Here
 1. [How The Stock Exchange Works (For Dummies)](https://www.youtube.com/watch?v=F3QpgXBtDeo) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).
 2. [Banking Explained – Money and Credit](https://www.youtube.com/watch?v=fTTGALaRZoc) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).
 3. [How the Economic Machine Works](http://www.economicprinciples.org/) by Ray Dalio.
 4. [Everything You Need to Know About Finance and Investing in Under an Hour](https://www.youtube.com/watch?v=WEDIj9JBTC8) by William Ackman for Big Think.
 
-# Context
+## Context
 ### Influential People
 * [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) — Columbia professor, the Godfather of value investing, and Warren Buffett’s mentor.
 * [David Dodd](https://en.wikipedia.org/wiki/David_Dodd) — Graham’s right-hand man at Columbia who wrote “Security Analysis” with him.
@@ -32,12 +32,12 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Glossary of Investment Terms - J.P. Morgan Asset Management](https://am.jpmorgan.com/us/en/asset-management/gim/adv/glossary-of-investment-terms)
 * [Glossary of stock market terms](https://en.wikipedia.org/wiki/Glossary_of_stock_market_terms) by Wikipedia.
 
-# Guides
+## Guides
 * [Value Investing: An Introductory Guide](https://getpocketbook.com/blog/value-investing-guide/) by Pocketbook.<br>
 * [The Absolute Beginner’s Guide to Investing](http://artofvalueinvesting.com/the-absolute-beginners-guide-to-investing/) by Art of Value Investing.<br>
 * [The Detailed Guide to Value and Deep Value Investing — How to Build a Long Term Portfolio](https://www.cityfalcon.com/blog/investing-for-newbies/the-detailed-guide-to-value-and-deep-value-investing-how-to-build-a-long-term-portfolio/) by Ruzbeh Bacha for Due on Medium.<br>
 
-# Blogs
+## Blogs
 ### General
 * [Investopedia’s Investing blog](https://www.investopedia.com/investing/)<br>
 * [Safal Niveshak](http://www.safalniveshak.com/)<br>
@@ -78,7 +78,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Gannon and Hoang on Investing](http://gannonandhoangoninvesting.com/)<br>
 * [Value Ventures](http://oraclefromomaha.wordpress.com/) 🌟<br>
 
-# YouTube
+## YouTube
 ### Channels
 * [Investor’s Archive](https://www.youtube.com/channel/UCVJalJNQWimC2zWrIHR_bSQ) 🌟<br>
 * [L2inc](https://www.youtube.com/channel/UCBcRF18a7Qf58cCRy5xuWwQ)<br>
@@ -88,7 +88,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Valuation and Investing](https://www.youtube.com/playlist?list=PL370CD04C45C6BB81) by Khan Academy.<br>
 * [The Investors Podcast (TIP) /We Study Billionaires” series](https://www.youtube.com/playlist?list=PLY2iemXCSz6FUEzsiSf4IZC244w--lR7n)<br>
 
-# Videos
+## Videos
 ### Economics
 * [How the Economic Machine Works](http://www.economicprinciples.org/) by Ray Dalio. 🌟<br>
 * [How The Stock Exchange Works (For Dummies)](https://www.youtube.com/watch?v=F3QpgXBtDeo) by [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).<br>
@@ -107,7 +107,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 ### Psychology
 * [The Psychology of Human Misjudgement](https://www.youtube.com/watch?v=pqzcCfUglws) by Charlie Munger.<br>
 
-# Articles
+## Articles
 ### General
 * [A Conversation with Ben Graham](http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf) by Financial Analysts Journal.<br>
 * [A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management & Business](https://old.ycombinator.com/munger.html) by Charles Munger. 🌟<br>
@@ -128,7 +128,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 ### Miscellaneous
 * [What Could You Buy With $241 Trillion?](https://waitbutwhy.com/2014/03/combined-wealth-world.html) by [Waitbutwhy](https://waitbutwhy.com/).<br>
 
-# Talks
+## Talks
 ### Talks
 * [Billionaire David Rubenstein on Private Equity and His Life](https://www.youtube.com/watch?v=WY2vpWM9v_Y)<br>
 * [Warren Buffett's Best Investment Advice & Strategies for Beginners](https://www.youtube.com/watch?v=DvlmvMa7eIw)<br>
@@ -144,7 +144,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Seth Klarman on Value Investing, Investment Strategies and Advice for Success](https://www.youtube.com/watch?v=VmQNya2I-9I) 🌟<br>
 * [Mohnish Pabrai: Low risk, High uncertainty Value Investing](https://www.youtube.com/watch?v=GhM0q4yZKjI) by Investors Archive.<br>
 
-# Books
+## Books
 * [A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing](https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=N9ATVH29QPX2K9T3GNYE) by Burton G. Malkiel.<br>
 * [Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](http://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232/ref=sr_1_1?s=books&ie=UTF8&qid=1382100548&sr=1-1&keywords=economics+in+one+lesson) by Henry Hazlitt.<br>
 * [The Essays of Warren Buffett: Lessons for Corporate America](https://www.amazon.com/gp/product/1611637589/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=valueinves08c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1611637589&linkId=6846360aca132772963eac1791a2c5d4) by Warren Buffett, arranged by Lawrence Cunningham.<br>
@@ -153,7 +153,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [The Intelligent Investor: The Definitive Book on Value Investing](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) by Benjamin Graham. 🌟<br>
 * [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105) — This book is the Yeezy of value investing. Lots of hype, but still really good. There’s only a small number in circulation, and the price of $699+ reflects that. So here’s [a free PDF](https://finance.broad.msu.edu/files/2013/11/Margin-of-Safety.pdf). 😉 ❗️<br>
 
-# Courses
+## Courses
 ### Lectures
 * [Greenwald 2010 Lectures: Lecture 1](https://www.youtube.com/watch?v=NG_BdWV-S4w) by Bruce Greenwald for Columbia Business School. You’ll find the rest of the lectures on this person’s channel.<br>
 
@@ -165,7 +165,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Equity Valuation Class](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcasteqfall15.htm) by Aswath Damodaran.<br>
 * [Business and Financial Modeling](https://www.coursera.org/specializations/wharton-business-financial-modeling) by The Wharton School.<br>
 
-# Lists
+## Lists
 * [Here is a Dropbox of Investing Books](https://www.dropbox.com/sh/e19t7l8q5y5ctbj/AAB4DohzOZQUML28iXR7Tbzna?dl=0)<br>
 * [The 11 Best Investment Books For Beginners](http://vintagevalueinvesting.com/best-investment-books-for-beginners/) by John Szramiak.<br>
 * [60 of My Favorite Value Investing Resources You’d Be Crazy to Miss](https://www.oldschoolvalue.com/blog/resources/60-value-investing-resources/) by Jae Jun for Old School Value.<br>
@@ -173,7 +173,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Awesome Investing](https://github.com/mr-karan/awesome-investing)<br>
 * [Resources on personal finance and investing!](https://github.com/si74/financial-reading-list)<br>
 
-# Communities
+## Communities
 ### Online
 * [/r/ValueInvesting](https://www.reddit.com/r/ValueInvesting/)<br>
 * [/r/BerkshireHathaway](https://www.reddit.com/r/BerkshireHathaway)<br>
@@ -202,7 +202,7 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Hedge Fund: The Investment Life Cycle](https://www.wallstreetoasis.com/forums/hedge-fund-the-investment-life-cycle) on Wall Street Oasis.<br>
 * [Anatomy of the 10-K](https://www.wallstreetoasis.com/forums/anatomy-of-the-10-k#new) on Wall Street Oasis.<br>
 
-# Podcasts
+## Podcasts
 ### Podcasts
 * [Econtalk](http://www.econtalk.org/)
 * [Exchanges at Goldman Sachs](http://www.goldmansachs.com/our-thinking/podcasts/)
@@ -223,10 +223,10 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Life Lessons from a Self-Made Billionaire: My Conversation With Ray Dalio](https://www.stitcher.com/podcast/shane-parrish/the-knowledge-project/e/51780769) by Farnam Street. 🌟<br>
 * [Ray Dalio, The Steve Jobs of Investing](https://tim.blog/2017/09/13/ray-dalio/) by Tim Ferriss.<br>
 
-# Newsletters
+## Newsletters
 * [The Heilbrunn Center for Graham & Dodd Investing](https://www8.gsb.columbia.edu/valueinvesting/resources/newsletters)
 
-# Films
+## Films
 ### Documentaries
 * [Warren Buffett - HBO Documentary 2017](http://bit.ly/2nmzF2U)
 * [Inside Job (2010)](http://www.imdb.com/title/tt1645089/)
@@ -236,10 +236,10 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Margin Call (2011)](http://www.imdb.com/title/tt1615147/)
 * [Wall Street (1987)](http://www.imdb.com/title/tt0094291/)
 
-# Wikis
+## Wikis
 * [Investopedia](http://www.investopedia.com)
 
-# News
+## News
 * [Abnormal Returns](http://abnormalreturns.com/)
 * [Value Walk](http://valuewalk.com/)
 * [Barron’s](http://online.barrons.com/home-page)
@@ -251,5 +251,5 @@ This list covers the topic of value investing. If you’re completely new to thi
 * [Reuters](http://www.reuters.com/)
 * [Wall Street Journal](http://online.wsj.com/home-page)
 
-# Research Papers
+## Research Papers
 * [Economic Principles](http://www.economicprinciples.org/wp-content/uploads/ray_dalio__how_the_economic_machine_works__leveragings_and_deleveragings.pdf#page=2) by Ray Dalio. ❗ 🌟<br>
