@@ -5,7 +5,7 @@
 
 This list covers the topics of blockchain and cryptocurrencies. If you’re completely new to these ideas, start with **Start Here**. This should tell you everything you’d ever *need* to know about crypto; but if you’re still curious, explore everything else below. Resources marked with ❗️ are difficult, and those with 🌟 are our favorite.
 
-# Start Here
+## Start Here
 1. [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 2. [My Crypto Guide](https://mycrypto.guide/) — The Definitive Crypto guide for Beginners and Veterans Alike.
 3. [Devcon2: Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4) by Vitalik Buterin.
