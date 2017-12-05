@@ -1,7 +1,9 @@
-# Athena's List
-*A curated index of the best learning resources on the Internet.*
+<H1 align="center">Athena's List<br><a href="http://www.athena.cool/#subscribe"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/list-subscribe.png" alt="Athena's List" height="30px"></a><br></H1>
 
-<a href="https://github.com/AthenaAI/athenas-list_one"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/athenas-list.png" alt="Athena's List" height="30px"></a> <a href="http://www.athena.cool/#subscribe"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/list-subscribe.png" alt="Athena's List" height="30px"></a>
+<i align="center">A curated index of the best learning resources on the Internet.</i>
+
+
+
 
 ## Table of Contents
 * [Blockchain & Cryptocurrencies](https://github.com/AthenaAI/athenas-list_one/blob/master/blockchain.md)
