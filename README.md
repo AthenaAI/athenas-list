@@ -1,4 +1,4 @@
-<img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/athenas-list-cover.png">
+<a href="http://www.athena.cool/#subscribe"><img src="https://github.com/AthenaAI/athenas-list_one/blob/master/assets/athenas-list-cover.png"></a>
 <br>
 
 ## Table of Contents
